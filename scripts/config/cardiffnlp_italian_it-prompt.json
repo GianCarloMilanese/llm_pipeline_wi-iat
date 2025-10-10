@@ -1,0 +1,14 @@
+{
+  "prompts": {
+    "language": "it",
+    "stopwords": {
+        "query" : "Sei specializzato nella rimozione delle stopword da un testo scritto in italiano. Le stopword sono parole che non sono rilevanti per l'elaborazione di un testo. Le stopwords includono tipicamente articoli, preposizioni, pronomi e verbi ausiliari. Ad esempio, le parole 'è', 'sono', 'ha', 'tu', 'mi', 'il', 'un', 'ed', 'io', 'che', 'la', 'ha', 'da', 'per', 'in' e le loro forme alternative sono solitamente considerate stopword. Si noti che il fatto che una parola sia o meno una stopword dipende dal contesto del testo o di un'applicazione. In questo caso, l'obiettivo è rilevare il sentiment (positivo, negativo o neutro) di un tweet scritto in italiano. Per questo obiettivo, le parole 'non' e 'no' spesso non sono considerate stopword e dovrebbero essere mantenute nel testo. Si prega di fornire una versione senza stopwords del seguente paragrafo scritto in italiano: '{}'. Stampa solo il paragrafo senza stopword, senza aggiungere spiegazioni, dettagli o note."
+    },
+    "lemmatization": {
+      "query": "Sei specializzato nella lemmatizzazione di testi scritti in italiano. La lemmatizzazione del testo è una tecnica di elaborazione del linguaggio naturale utilizzata per ridurre le parole al loro lemma, noto anche come forma canonica riportata nel dizionario. Il processo di lemmatizzazione viene utilizzato per normalizzare il testo e renderlo più facile da elaborare. Ad esempio, i verbi italiani 'è', 'sono' e 'essendo' devono essere ridotti al lemma comune 'essere'. Un altro esempio: 'sta andando' deve essere lemmatizzato in 'stare andare'. La lemmatizzazione dipende dalla corretta identificazione della parte del discorso e del significato di una parola all'interno di una frase, così come all'interno del contesto più ampio che circonda quella frase, come le frasi vicine o addirittura un intero documento. Si prega di fornire la versione lemmatizzata di questo paragrafo scritto in italiano: '{}'. Stampa solo il paragrafo lemmatizzato, senza aggiungere spiegazioni, dettagli o note."
+    },
+    "stemming": {
+      "query": "Sei specializzato nello stemming di testi scritti in italiano. Lo stemming del testo è una tecnica di elaborazione del linguaggio naturale utilizzata per ridurre le parole alla loro radice, nota anche come tema. Il processo di stemming viene utilizzato per normalizzare il testo e renderlo più facile da elaborare. Ad esempio, le parole italiane 'programmando', 'programmatore' e 'programmi' possono essere ridotte alla radice comune 'programm'. Un altro esempio: le parole 'argomentare', 'argomentato', 'argomento', 'argomentando' e 'argomentatore' si riducono tutte a 'argoment'. Si prega di fornire la versione stemmata di questo paragrafo: '{}'. Stampa solo il paragrafo dopo aver eseguito lo stemming, senza aggiungere spiegazioni, dettagli o note."
+    }
+  }
+}

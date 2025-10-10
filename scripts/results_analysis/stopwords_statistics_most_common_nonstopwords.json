@@ -1,0 +1,1822 @@
+{
+  "agnewstest_3k_Llama-3.1-8B-Instruct": {
+    "most_common_removed_nonstropwords": {
+      "ap": 229,
+      "39;s": 124,
+      "reuters": 88,
+      "afp": 81,
+      "'s": 78,
+      "new": 75,
+      "39": 63,
+      "lt;b&gt;": 49,
+      "&lt;/b&gt": 49,
+      "says": 33
+    },
+    "percentage_removed_nonstopwords": {
+      "ap": 0.9744680851063829,
+      "39;s": 0.8322147651006712,
+      "reuters": 0.9361702127659575,
+      "afp": 0.9642857142857143,
+      "'s": 0.7027027027027027,
+      "new": 0.7009345794392523,
+      "39": 0.9402985074626866,
+      "lt;b&gt;": 0.9607843137254902,
+      "&lt;/b&gt": 0.9607843137254902,
+      "says": 0.5789473684210527
+    }
+  },
+  "agnewstest_3k_Phi-4-mini-instruct": {
+    "most_common_removed_nonstropwords": {
+      "39;s": 124,
+      "'s": 62,
+      "39": 53,
+      "lt;b&gt;": 45,
+      "&lt;/b&gt": 43,
+      "ap": 28,
+      "update": 22,
+      "39;t": 17,
+      "says": 14,
+      "gets": 13
+    },
+    "percentage_removed_nonstopwords": {
+      "39;s": 0.8322147651006712,
+      "'s": 0.5585585585585585,
+      "39": 0.7910447761194029,
+      "lt;b&gt;": 0.8823529411764706,
+      "&lt;/b&gt": 0.8431372549019608,
+      "ap": 0.11914893617021277,
+      "update": 0.7333333333333333,
+      "39;t": 0.85,
+      "says": 0.24561403508771928,
+      "gets": 0.52
+    }
+  },
+  "agnewstest_3k_Qwen2.5-7B-Instruct": {
+    "most_common_removed_nonstropwords": {
+      "ap": 234,
+      "39;s": 148,
+      "'s": 103,
+      "reuters": 93,
+      "afp": 83,
+      "39": 66,
+      "lt;b&gt;": 51,
+      "&lt;/b&gt": 51,
+      "update": 25,
+      "2": 23
+    },
+    "percentage_removed_nonstopwords": {
+      "ap": 0.9957446808510638,
+      "39;s": 0.9932885906040269,
+      "'s": 0.9279279279279279,
+      "reuters": 0.9893617021276596,
+      "afp": 0.9880952380952381,
+      "39": 0.9850746268656716,
+      "lt;b&gt;": 1.0,
+      "&lt;/b&gt": 1.0,
+      "update": 0.8333333333333334,
+      "2": 0.71875
+    }
+  },
+  "agnewstest_3k_gemma-2-9b-it": {
+    "most_common_removed_nonstropwords": {
+      "ap": 225,
+      "39;s": 143,
+      "afp": 76,
+      "reuters": 75,
+      "'s": 73,
+      "39": 59,
+      "new": 52,
+      "lt;b&gt;": 51,
+      "&lt;/b&gt": 51,
+      "39;t": 20
+    },
+    "percentage_removed_nonstopwords": {
+      "ap": 0.9574468085106383,
+      "39;s": 0.959731543624161,
+      "afp": 0.9047619047619048,
+      "reuters": 0.7978723404255319,
+      "'s": 0.6576576576576577,
+      "39": 0.8805970149253731,
+      "new": 0.48598130841121495,
+      "lt;b&gt;": 1.0,
+      "&lt;/b&gt": 1.0,
+      "39;t": 1.0
+    }
+  },
+  "agnewstest_3k_gemma-3-4b-it": {
+    "most_common_removed_nonstropwords": {
+      "ap": 225,
+      "39;s": 148,
+      "'s": 109,
+      "afp": 69,
+      "39": 65,
+      "new": 59,
+      "reuters": 59,
+      "lt;b&gt;": 51,
+      "&lt;/b&gt": 51,
+      "us": 33
+    },
+    "percentage_removed_nonstopwords": {
+      "ap": 0.9574468085106383,
+      "39;s": 0.9932885906040269,
+      "'s": 0.9819819819819819,
+      "afp": 0.8214285714285714,
+      "39": 0.9701492537313433,
+      "new": 0.5514018691588785,
+      "reuters": 0.6276595744680851,
+      "lt;b&gt;": 1.0,
+      "&lt;/b&gt": 1.0,
+      "us": 0.44
+    }
+  },
+  "agnewstrainAll_3k_Llama-3.1-8B-Instruct": {
+    "most_common_removed_nonstropwords": {
+      "ap": 169,
+      "39;s": 95,
+      "reuters": 88,
+      "39": 66,
+      "new": 62,
+      "'s": 58,
+      "lt;b&gt;": 48,
+      "&lt;/b&gt": 48,
+      "afp": 33,
+      "us": 30
+    },
+    "percentage_removed_nonstopwords": {
+      "ap": 0.9441340782122905,
+      "39;s": 0.8333333333333334,
+      "reuters": 0.9887640449438202,
+      "39": 0.88,
+      "new": 0.5210084033613446,
+      "'s": 0.651685393258427,
+      "lt;b&gt;": 0.9795918367346939,
+      "&lt;/b&gt": 0.9795918367346939,
+      "afp": 1.0,
+      "us": 0.4411764705882353
+    }
+  },
+  "agnewstrainAll_3k_Phi-4-mini-instruct": {
+    "most_common_removed_nonstropwords": {
+      "39;s": 94,
+      "39": 62,
+      "'s": 47,
+      "lt;b&gt;": 45,
+      "&lt;/b&gt": 44,
+      "ap": 21,
+      "39;t": 18,
+      "update": 15,
+      "gets": 14,
+      "quot": 10
+    },
+    "percentage_removed_nonstopwords": {
+      "39;s": 0.8245614035087719,
+      "39": 0.8266666666666667,
+      "'s": 0.5280898876404494,
+      "lt;b&gt;": 0.9183673469387755,
+      "&lt;/b&gt": 0.8979591836734694,
+      "ap": 0.11731843575418995,
+      "39;t": 0.8571428571428571,
+      "update": 0.4411764705882353,
+      "gets": 0.4827586206896552,
+      "quot": 1.0
+    }
+  },
+  "agnewstrainAll_3k_Qwen2.5-7B-Instruct": {
+    "most_common_removed_nonstropwords": {
+      "ap": 178,
+      "39;s": 114,
+      "reuters": 87,
+      "'s": 83,
+      "39": 75,
+      "lt;b&gt;": 49,
+      "&lt;/b&gt": 49,
+      "afp": 33,
+      "2": 26,
+      "39;t": 20
+    },
+    "percentage_removed_nonstopwords": {
+      "ap": 0.994413407821229,
+      "39;s": 1.0,
+      "reuters": 0.9775280898876404,
+      "'s": 0.9325842696629213,
+      "39": 1.0,
+      "lt;b&gt;": 1.0,
+      "&lt;/b&gt": 1.0,
+      "afp": 1.0,
+      "2": 0.8387096774193549,
+      "39;t": 0.9523809523809523
+    }
+  },
+  "agnewstrainAll_3k_gemma-2-9b-it": {
+    "most_common_removed_nonstropwords": {
+      "ap": 169,
+      "39;s": 111,
+      "reuters": 70,
+      "39": 70,
+      "'s": 56,
+      "new": 56,
+      "lt;b&gt;": 49,
+      "&lt;/b&gt": 49,
+      "afp": 32,
+      "39;t": 19
+    },
+    "percentage_removed_nonstopwords": {
+      "ap": 0.9441340782122905,
+      "39;s": 0.9736842105263158,
+      "reuters": 0.7865168539325843,
+      "39": 0.9333333333333333,
+      "'s": 0.6292134831460674,
+      "new": 0.47058823529411764,
+      "lt;b&gt;": 1.0,
+      "&lt;/b&gt": 1.0,
+      "afp": 0.9696969696969697,
+      "39;t": 0.9047619047619048
+    }
+  },
+  "agnewstrainAll_3k_gemma-3-4b-it": {
+    "most_common_removed_nonstropwords": {
+      "ap": 170,
+      "39;s": 114,
+      "'s": 85,
+      "39": 73,
+      "new": 68,
+      "reuters": 54,
+      "lt;b&gt;": 49,
+      "&lt;/b&gt": 49,
+      "afp": 30,
+      "first": 29
+    },
+    "percentage_removed_nonstopwords": {
+      "ap": 0.9497206703910615,
+      "39;s": 1.0,
+      "'s": 0.9550561797752809,
+      "39": 0.9733333333333334,
+      "new": 0.5714285714285714,
+      "reuters": 0.6067415730337079,
+      "lt;b&gt;": 1.0,
+      "&lt;/b&gt": 1.0,
+      "afp": 0.9090909090909091,
+      "first": 0.7631578947368421
+    }
+  },
+  "reuterstest_3k_Llama-3.1-8B-Instruct": {
+    "most_common_removed_nonstropwords": {
+      ">": 1730,
+      "<": 1651,
+      "said": 1508,
+      "vs": 737,
+      "would": 692,
+      "'s": 671,
+      "mln": 446,
+      "blah": 387,
+      "april": 342,
+      "also": 331
+    },
+    "percentage_removed_nonstopwords": {
+      ">": 0.6837944664031621,
+      "<": 0.6788651315789473,
+      "said": 0.2703962703962704,
+      "vs": 0.14649175114291393,
+      "would": 0.6449207828518173,
+      "'s": 0.3058340929808569,
+      "mln": 0.0861003861003861,
+      "blah": 0.8376623376623377,
+      "april": 0.25184094256259204,
+      "also": 0.6040145985401459
+    }
+  },
+  "reuterstest_3k_Phi-4-mini-instruct": {
+    "most_common_removed_nonstropwords": {
+      "mln": 1268,
+      ">": 1158,
+      "<": 1080,
+      "said": 478,
+      "'s": 301,
+      "dlrs": 273,
+      "nil": 254,
+      "vs": 115,
+      "cts": 108,
+      "u.s.": 107
+    },
+    "percentage_removed_nonstopwords": {
+      "mln": 0.24478764478764478,
+      ">": 0.45770750988142295,
+      "<": 0.4440789473684211,
+      "said": 0.08570916263223956,
+      "'s": 0.13719234275296263,
+      "dlrs": 0.08472998137802606,
+      "nil": 0.7298850574712644,
+      "vs": 0.02285827867223216,
+      "cts": 0.043373493975903614,
+      "u.s.": 0.0710019907100199
+    }
+  },
+  "reuterstest_3k_Qwen2.5-7B-Instruct": {
+    "most_common_removed_nonstropwords": {
+      ">": 2311,
+      "<": 2212,
+      "said": 1823,
+      "mln": 1788,
+      "vs": 1192,
+      "dlrs": 1167,
+      "'s": 1053,
+      "cts": 702,
+      "pct": 660,
+      "would": 587
+    },
+    "percentage_removed_nonstopwords": {
+      ">": 0.9134387351778656,
+      "<": 0.9095394736842105,
+      "said": 0.326878249955173,
+      "mln": 0.34517374517374516,
+      "vs": 0.23693102762870205,
+      "dlrs": 0.3621973929236499,
+      "'s": 0.4799453053783045,
+      "cts": 0.2819277108433735,
+      "pct": 0.38573933372296904,
+      "would": 0.5470643056849953
+    }
+  },
+  "reuterstest_3k_gemma-2-9b-it": {
+    "most_common_removed_nonstropwords": {
+      ">": 1438,
+      "<": 1342,
+      "blah": 444,
+      "would": 281,
+      "per": 275,
+      "nil": 249,
+      "'s": 244,
+      "3": 212,
+      "said": 205,
+      "note": 156
+    },
+    "percentage_removed_nonstopwords": {
+      ">": 0.5683794466403163,
+      "<": 0.5518092105263158,
+      "blah": 0.961038961038961,
+      "would": 0.2618825722273998,
+      "per": 0.6004366812227074,
+      "nil": 0.7155172413793104,
+      "'s": 0.11121239744758432,
+      "3": 0.8060836501901141,
+      "said": 0.036758113681190606,
+      "note": 0.2948960302457467
+    }
+  },
+  "reuterstest_3k_gemma-3-4b-it": {
+    "most_common_removed_nonstropwords": {
+      ">": 2457,
+      "<": 2364,
+      "said": 1662,
+      "'s": 1522,
+      "vs": 668,
+      "mln": 584,
+      "dlrs": 484,
+      "blah": 459,
+      "cts": 312,
+      "april": 277
+    },
+    "percentage_removed_nonstopwords": {
+      ">": 0.9711462450592885,
+      "<": 0.9720394736842105,
+      "said": 0.2980096826250672,
+      "'s": 0.6937101185050136,
+      "vs": 0.13277678393957465,
+      "mln": 0.11274131274131274,
+      "dlrs": 0.15021725636250777,
+      "blah": 0.9935064935064936,
+      "cts": 0.12530120481927712,
+      "april": 0.20397643593519882
+    }
+  },
+  "reuterstrainAll_3k_Llama-3.1-8B-Instruct": {
+    "most_common_removed_nonstropwords": {
+      ">": 2235,
+      "<": 2137,
+      "said": 1838,
+      "'s": 927,
+      "would": 894,
+      "march": 796,
+      "vs": 674,
+      "mln": 621,
+      "also": 527,
+      "blah": 501
+    },
+    "percentage_removed_nonstopwords": {
+      ">": 0.7507557944239167,
+      "<": 0.7472027972027973,
+      "said": 0.2573869205993558,
+      "'s": 0.32198680097255994,
+      "would": 0.6482958665699783,
+      "march": 0.2726961288112367,
+      "vs": 0.16592811422944362,
+      "mln": 0.1100088573959256,
+      "also": 0.6595744680851063,
+      "blah": 0.7522522522522522
+    }
+  },
+  "reuterstrainAll_3k_Phi-4-mini-instruct": {
+    "most_common_removed_nonstropwords": {
+      ">": 1412,
+      "<": 1309,
+      "mln": 1051,
+      "said": 649,
+      "dlrs": 313,
+      "'s": 309,
+      "would": 153,
+      "blah": 126,
+      "u.s.": 115,
+      "march": 109
+    },
+    "percentage_removed_nonstopwords": {
+      ">": 0.47430298958683237,
+      "<": 0.4576923076923077,
+      "mln": 0.1861824623560673,
+      "said": 0.09088362974373337,
+      "dlrs": 0.08468614718614718,
+      "'s": 0.10732893365751997,
+      "would": 0.11094996374184192,
+      "blah": 0.1891891891891892,
+      "u.s.": 0.07718120805369127,
+      "march": 0.03734155532716684
+    }
+  },
+  "reuterstrainAll_3k_Qwen2.5-7B-Instruct": {
+    "most_common_removed_nonstropwords": {
+      ">": 2778,
+      "<": 2658,
+      "said": 2223,
+      "mln": 1811,
+      "dlrs": 1371,
+      "'s": 1353,
+      "vs": 959,
+      "pct": 790,
+      "would": 768,
+      "cts": 710
+    },
+    "percentage_removed_nonstopwords": {
+      ">": 0.933154182062479,
+      "<": 0.9293706293706294,
+      "said": 0.31130093824394345,
+      "mln": 0.320814880425155,
+      "dlrs": 0.37094155844155846,
+      "'s": 0.4699548454324418,
+      "vs": 0.23609059576563268,
+      "pct": 0.34847816497573886,
+      "would": 0.5569253081943437,
+      "cts": 0.2946058091286307
+    }
+  },
+  "reuterstrainAll_3k_gemma-2-9b-it": {
+    "most_common_removed_nonstropwords": {
+      ">": 1754,
+      "<": 1640,
+      "blah": 639,
+      "per": 363,
+      "would": 338,
+      "3": 287,
+      "'s": 268,
+      "said": 260,
+      "march": 237,
+      "one": 164
+    },
+    "percentage_removed_nonstopwords": {
+      ">": 0.5891837420221699,
+      "<": 0.5734265734265734,
+      "blah": 0.9594594594594594,
+      "per": 0.6368421052631579,
+      "would": 0.24510514865844815,
+      "3": 0.5857142857142857,
+      "'s": 0.09308787773532476,
+      "said": 0.03640946646127993,
+      "march": 0.08119218910585817,
+      "one": 0.17691477885652643
+    }
+  },
+  "reuterstrainAll_3k_gemma-3-4b-it": {
+    "most_common_removed_nonstropwords": {
+      ">": 2894,
+      "<": 2781,
+      "'s": 2000,
+      "said": 1852,
+      "blah": 651,
+      "mln": 630,
+      "march": 627,
+      "vs": 468,
+      "dlrs": 465,
+      "3": 304
+    },
+    "percentage_removed_nonstopwords": {
+      ">": 0.9721195834732953,
+      "<": 0.9723776223776224,
+      "'s": 0.6946856547412296,
+      "said": 0.2593474303318863,
+      "blah": 0.9774774774774775,
+      "mln": 0.11160318866253321,
+      "march": 0.2147995889003083,
+      "vs": 0.11521418020679468,
+      "dlrs": 0.12581168831168832,
+      "3": 0.6204081632653061
+    }
+  },
+  "semevalEmojitest_3k_Llama-3.1-8B-Instruct": {
+    "most_common_removed_nonstropwords": {
+      "user": 385,
+      "amp": 133,
+      "new": 96,
+      "one": 68,
+      "it\"s": 64,
+      "i\"m": 54,
+      "like": 50,
+      "last": 44,
+      "thank": 42,
+      "good": 38
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.5539568345323741,
+      "amp": 0.9568345323741008,
+      "new": 0.4050632911392405,
+      "one": 0.6476190476190476,
+      "it\"s": 1.0,
+      "i\"m": 0.9642857142857143,
+      "like": 0.6024096385542169,
+      "last": 0.6470588235294118,
+      "thank": 0.84,
+      "good": 0.41304347826086957
+    }
+  },
+  "semevalEmojitest_3k_Phi-4-mini-instruct": {
+    "most_common_removed_nonstropwords": {
+      "amp": 130,
+      "i\"m": 53,
+      "user": 51,
+      "it\"s": 42,
+      "one": 26,
+      "like": 21,
+      "not": 19,
+      "don\"t": 19,
+      "new": 18,
+      "+": 17
+    },
+    "percentage_removed_nonstopwords": {
+      "amp": 0.935251798561151,
+      "i\"m": 0.9464285714285714,
+      "user": 0.07338129496402877,
+      "it\"s": 0.65625,
+      "one": 0.24761904761904763,
+      "like": 0.25301204819277107,
+      "not": 0.3958333333333333,
+      "don\"t": 0.8260869565217391,
+      "new": 0.0759493670886076,
+      "+": 0.8095238095238095
+    }
+  },
+  "semevalEmojitest_3k_Qwen2.5-7B-Instruct": {
+    "most_common_removed_nonstropwords": {
+      "user": 317,
+      "amp": 126,
+      "it\"s": 64,
+      "one": 62,
+      "i\"m": 55,
+      "like": 49,
+      "not": 38,
+      "new": 36,
+      "always": 28,
+      "us": 27
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.45611510791366905,
+      "amp": 0.9064748201438849,
+      "it\"s": 1.0,
+      "one": 0.5904761904761905,
+      "i\"m": 0.9821428571428571,
+      "like": 0.5903614457831325,
+      "not": 0.7916666666666666,
+      "new": 0.1518987341772152,
+      "always": 0.56,
+      "us": 0.627906976744186
+    }
+  },
+  "semevalEmojitest_3k_gemma-2-9b-it": {
+    "most_common_removed_nonstropwords": {
+      "user": 149,
+      "amp": 137,
+      "it\"s": 64,
+      "new": 58,
+      "i\"m": 56,
+      "like": 45,
+      "one": 40,
+      "not": 32,
+      "us": 27,
+      "always": 24
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.2143884892086331,
+      "amp": 0.9856115107913669,
+      "it\"s": 1.0,
+      "new": 0.24472573839662448,
+      "i\"m": 1.0,
+      "like": 0.5421686746987951,
+      "one": 0.38095238095238093,
+      "not": 0.6666666666666666,
+      "us": 0.627906976744186,
+      "always": 0.48
+    }
+  },
+  "semevalEmojitest_3k_gemma-3-4b-it": {
+    "most_common_removed_nonstropwords": {
+      "amp": 139,
+      "user": 72,
+      "it\"s": 64,
+      "i\"m": 55,
+      "happy": 52,
+      "new": 49,
+      "like": 47,
+      "one": 46,
+      "little": 36,
+      "good": 31
+    },
+    "percentage_removed_nonstopwords": {
+      "amp": 1.0,
+      "user": 0.10359712230215827,
+      "it\"s": 1.0,
+      "i\"m": 0.9821428571428571,
+      "happy": 0.2937853107344633,
+      "new": 0.20675105485232068,
+      "like": 0.5662650602409639,
+      "one": 0.4380952380952381,
+      "little": 0.6,
+      "good": 0.33695652173913043
+    }
+  },
+  "semevalEmojitrainAll_3k_Llama-3.1-8B-Instruct": {
+    "most_common_removed_nonstropwords": {
+      "user": 457,
+      "\ufe0f": 288,
+      "amp": 132,
+      "it\"s": 83,
+      "i\"m": 72,
+      "one": 57,
+      "thank": 52,
+      "like": 47,
+      "day": 42,
+      "not": 39
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.5600490196078431,
+      "\ufe0f": 0.40055632823365783,
+      "amp": 0.9295774647887324,
+      "it\"s": 0.9540229885057471,
+      "i\"m": 0.972972972972973,
+      "one": 0.5757575757575758,
+      "thank": 0.7878787878787878,
+      "like": 0.6811594202898551,
+      "day": 0.33070866141732286,
+      "not": 0.75
+    }
+  },
+  "semevalEmojitrainAll_3k_Phi-4-mini-instruct": {
+    "most_common_removed_nonstropwords": {
+      "\ufe0f": 366,
+      "amp": 133,
+      "user": 117,
+      "i\"m": 69,
+      "it\"s": 66,
+      "can\"t": 33,
+      "don\"t": 28,
+      "not": 22,
+      "got": 18,
+      "tbt": 18
+    },
+    "percentage_removed_nonstopwords": {
+      "\ufe0f": 0.5090403337969402,
+      "amp": 0.9366197183098591,
+      "user": 0.14338235294117646,
+      "i\"m": 0.9324324324324325,
+      "it\"s": 0.7586206896551724,
+      "can\"t": 0.825,
+      "don\"t": 0.875,
+      "not": 0.4230769230769231,
+      "got": 0.32142857142857145,
+      "tbt": 0.3829787234042553
+    }
+  },
+  "semevalEmojitrainAll_3k_Qwen2.5-7B-Instruct": {
+    "most_common_removed_nonstropwords": {
+      "user": 402,
+      "\ufe0f": 384,
+      "amp": 127,
+      "it\"s": 85,
+      "i\"m": 74,
+      "one": 58,
+      "not": 44,
+      "like": 41,
+      "can\"t": 38,
+      "don\"t": 32
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.49264705882352944,
+      "\ufe0f": 0.5340751043115438,
+      "amp": 0.8943661971830986,
+      "it\"s": 0.9770114942528736,
+      "i\"m": 1.0,
+      "one": 0.5858585858585859,
+      "not": 0.8461538461538461,
+      "like": 0.5942028985507246,
+      "can\"t": 0.95,
+      "don\"t": 1.0
+    }
+  },
+  "semevalEmojitrainAll_3k_gemma-2-9b-it": {
+    "most_common_removed_nonstropwords": {
+      "\ufe0f": 671,
+      "user": 183,
+      "amp": 138,
+      "it\"s": 87,
+      "i\"m": 74,
+      "like": 40,
+      "can\"t": 39,
+      "not": 35,
+      "one": 33,
+      "don\"t": 32
+    },
+    "percentage_removed_nonstopwords": {
+      "\ufe0f": 0.933240611961057,
+      "user": 0.22426470588235295,
+      "amp": 0.971830985915493,
+      "it\"s": 1.0,
+      "i\"m": 1.0,
+      "like": 0.5797101449275363,
+      "can\"t": 0.975,
+      "not": 0.6730769230769231,
+      "one": 0.3333333333333333,
+      "don\"t": 1.0
+    }
+  },
+  "semevalEmojitrainAll_3k_gemma-3-4b-it": {
+    "most_common_removed_nonstropwords": {
+      "\ufe0f": 628,
+      "amp": 142,
+      "user": 127,
+      "it\"s": 86,
+      "i\"m": 74,
+      "one": 44,
+      "like": 43,
+      "can\"t": 37,
+      "last": 36,
+      "not": 31
+    },
+    "percentage_removed_nonstopwords": {
+      "\ufe0f": 0.8734353268428373,
+      "amp": 1.0,
+      "user": 0.1556372549019608,
+      "it\"s": 0.9885057471264368,
+      "i\"m": 1.0,
+      "one": 0.4444444444444444,
+      "like": 0.6231884057971014,
+      "can\"t": 0.925,
+      "last": 0.4235294117647059,
+      "not": 0.5961538461538461
+    }
+  },
+  "semevalSentimenttest_3k_Llama-3.1-8B-Instruct": {
+    "most_common_removed_nonstropwords": {
+      "user": 1644,
+      "'s": 270,
+      "n't": 177,
+      "not": 145,
+      "via": 94,
+      "like": 75,
+      "'m": 63,
+      "trump": 57,
+      "'re": 51,
+      "one": 51
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.8058823529411765,
+      "'s": 0.6094808126410836,
+      "n't": 0.688715953307393,
+      "not": 0.7360406091370558,
+      "via": 0.912621359223301,
+      "like": 0.6,
+      "'m": 0.9130434782608695,
+      "trump": 0.178125,
+      "'re": 0.8095238095238095,
+      "one": 0.5666666666666667
+    }
+  },
+  "semevalSentimenttest_3k_Phi-4-mini-instruct": {
+    "most_common_removed_nonstropwords": {
+      "user": 893,
+      "'s": 203,
+      "n't": 104,
+      "not": 62,
+      "'m": 41,
+      "like": 38,
+      "would": 32,
+      "'re": 31,
+      "2": 30,
+      "trump": 29
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.4377450980392157,
+      "'s": 0.4582392776523702,
+      "n't": 0.4046692607003891,
+      "not": 0.3147208121827411,
+      "'m": 0.5942028985507246,
+      "like": 0.304,
+      "would": 0.47761194029850745,
+      "'re": 0.49206349206349204,
+      "2": 0.43478260869565216,
+      "trump": 0.090625
+    }
+  },
+  "semevalSentimenttest_3k_Qwen2.5-7B-Instruct": {
+    "most_common_removed_nonstropwords": {
+      "user": 1163,
+      "'s": 326,
+      "n't": 202,
+      "not": 162,
+      "via": 74,
+      "like": 70,
+      "'m": 66,
+      "2": 57,
+      "one": 55,
+      "'re": 52
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.5700980392156862,
+      "'s": 0.7358916478555305,
+      "n't": 0.7859922178988327,
+      "not": 0.8223350253807107,
+      "via": 0.7184466019417476,
+      "like": 0.56,
+      "'m": 0.9565217391304348,
+      "2": 0.8260869565217391,
+      "one": 0.6111111111111112,
+      "'re": 0.8253968253968254
+    }
+  },
+  "semevalSentimenttest_3k_gemma-2-9b-it": {
+    "most_common_removed_nonstropwords": {
+      "user": 1286,
+      "'s": 320,
+      "not": 122,
+      "n't": 88,
+      "'m": 68,
+      "like": 60,
+      "via": 55,
+      "'re": 50,
+      "2": 49,
+      "would": 36
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.6303921568627451,
+      "'s": 0.7223476297968398,
+      "not": 0.6192893401015228,
+      "n't": 0.3424124513618677,
+      "'m": 0.9855072463768116,
+      "like": 0.48,
+      "via": 0.5339805825242718,
+      "'re": 0.7936507936507936,
+      "2": 0.7101449275362319,
+      "would": 0.5373134328358209
+    }
+  },
+  "semevalSentimenttest_3k_gemma-3-4b-it": {
+    "most_common_removed_nonstropwords": {
+      "user": 1002,
+      "'s": 352,
+      "n't": 133,
+      "not": 105,
+      "like": 72,
+      "via": 71,
+      "'m": 67,
+      "2": 60,
+      "'re": 52,
+      "trump": 52
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.49117647058823527,
+      "'s": 0.7945823927765236,
+      "n't": 0.5175097276264592,
+      "not": 0.5329949238578681,
+      "like": 0.576,
+      "via": 0.6893203883495146,
+      "'m": 0.9710144927536232,
+      "2": 0.8695652173913043,
+      "'re": 0.8253968253968254,
+      "trump": 0.1625
+    }
+  },
+  "semevalSentimenttrainAll_3k_Llama-3.1-8B-Instruct": {
+    "most_common_removed_nonstropwords": {
+      "user": 783,
+      "'s": 363,
+      "may": 284,
+      "n't": 160,
+      "not": 158,
+      "like": 116,
+      "'m": 115,
+      "going": 107,
+      "amp": 94,
+      "one": 90
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.6838427947598253,
+      "'s": 0.5864297253634895,
+      "may": 0.668235294117647,
+      "n't": 0.6477732793522267,
+      "not": 0.7596153846153846,
+      "like": 0.6236559139784946,
+      "'m": 0.905511811023622,
+      "going": 0.5376884422110553,
+      "amp": 0.9690721649484536,
+      "one": 0.6617647058823529
+    }
+  },
+  "semevalSentimenttrainAll_3k_Phi-4-mini-instruct": {
+    "most_common_removed_nonstropwords": {
+      "user": 460,
+      "'s": 297,
+      "may": 153,
+      "n't": 95,
+      "amp": 94,
+      "not": 89,
+      "'m": 74,
+      "like": 58,
+      "going": 53,
+      "i\\u2019": 39
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.4017467248908297,
+      "'s": 0.4798061389337641,
+      "may": 0.36,
+      "n't": 0.38461538461538464,
+      "amp": 0.9690721649484536,
+      "not": 0.42788461538461536,
+      "'m": 0.5826771653543307,
+      "like": 0.3118279569892473,
+      "going": 0.2663316582914573,
+      "i\\u2019": 1.0
+    }
+  },
+  "semevalSentimenttrainAll_3k_Qwen2.5-7B-Instruct": {
+    "most_common_removed_nonstropwords": {
+      "user": 552,
+      "'s": 441,
+      "may": 260,
+      "not": 166,
+      "n't": 159,
+      "'m": 127,
+      "like": 118,
+      "amp": 97,
+      "one": 90,
+      "1st": 70
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.4820960698689956,
+      "'s": 0.7124394184168013,
+      "may": 0.611764705882353,
+      "not": 0.7980769230769231,
+      "n't": 0.6437246963562753,
+      "'m": 1.0,
+      "like": 0.6344086021505376,
+      "amp": 1.0,
+      "one": 0.6617647058823529,
+      "1st": 0.43209876543209874
+    }
+  },
+  "semevalSentimenttrainAll_3k_gemma-2-9b-it": {
+    "most_common_removed_nonstropwords": {
+      "user": 675,
+      "'s": 376,
+      "may": 178,
+      "not": 129,
+      "'m": 121,
+      "amp": 96,
+      "like": 93,
+      "n't": 74,
+      "one": 58,
+      "'re": 48
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.5895196506550219,
+      "'s": 0.6074313408723748,
+      "may": 0.4188235294117647,
+      "not": 0.6201923076923077,
+      "'m": 0.952755905511811,
+      "amp": 0.9896907216494846,
+      "like": 0.5,
+      "n't": 0.29959514170040485,
+      "one": 0.4264705882352941,
+      "'re": 0.8571428571428571
+    }
+  },
+  "semevalSentimenttrainAll_3k_gemma-3-4b-it": {
+    "most_common_removed_nonstropwords": {
+      "'s": 470,
+      "user": 459,
+      "may": 291,
+      "n't": 114,
+      "'m": 113,
+      "not": 108,
+      "like": 101,
+      "amp": 97,
+      "1st": 82,
+      "one": 75
+    },
+    "percentage_removed_nonstopwords": {
+      "'s": 0.7592891760904685,
+      "user": 0.4008733624454148,
+      "may": 0.6847058823529412,
+      "n't": 0.46153846153846156,
+      "'m": 0.889763779527559,
+      "not": 0.5192307692307693,
+      "like": 0.543010752688172,
+      "amp": 1.0,
+      "1st": 0.5061728395061729,
+      "one": 0.5514705882352942
+    }
+  },
+  "semevalhatetest_3k_Llama-3.1-8B-Instruct": {
+    "most_common_removed_nonstropwords": {
+      "user": 2503,
+      "n't": 343,
+      "not": 321,
+      "'s": 265,
+      "build": 253,
+      "wall": 242,
+      "like": 228,
+      "\ud83d\ude02": 207,
+      "illegal": 179,
+      "bitch": 156
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.8228139381985535,
+      "n't": 0.7408207343412527,
+      "not": 0.8359375,
+      "'s": 0.748587570621469,
+      "build": 0.40350877192982454,
+      "wall": 0.3590504451038576,
+      "like": 0.6888217522658611,
+      "\ud83d\ude02": 0.7900763358778626,
+      "illegal": 0.3925438596491228,
+      "bitch": 0.10699588477366255
+    }
+  },
+  "semevalhatetest_3k_Phi-4-mini-instruct": {
+    "most_common_removed_nonstropwords": {
+      "user": 1101,
+      "build": 274,
+      "wall": 274,
+      "'s": 158,
+      "n't": 151,
+      "not": 147,
+      "daca": 124,
+      "america": 88,
+      "'m": 84,
+      "illegal": 79
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.3619329388560158,
+      "build": 0.4370015948963317,
+      "wall": 0.4065281899109792,
+      "'s": 0.4463276836158192,
+      "n't": 0.326133909287257,
+      "not": 0.3828125,
+      "daca": 0.41333333333333333,
+      "america": 0.34108527131782945,
+      "'m": 0.5121951219512195,
+      "illegal": 0.17324561403508773
+    }
+  },
+  "semevalhatetest_3k_Qwen2.5-7B-Instruct": {
+    "most_common_removed_nonstropwords": {
+      "user": 937,
+      "bitch": 367,
+      "n't": 263,
+      "wall": 248,
+      "'s": 245,
+      "build": 242,
+      "not": 237,
+      "like": 168,
+      "daca": 138,
+      "illegal": 135
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.30802103879026954,
+      "bitch": 0.25171467764060357,
+      "n't": 0.5680345572354212,
+      "wall": 0.36795252225519287,
+      "'s": 0.692090395480226,
+      "build": 0.38596491228070173,
+      "not": 0.6171875,
+      "like": 0.5075528700906344,
+      "daca": 0.46,
+      "illegal": 0.29605263157894735
+    }
+  },
+  "semevalhatetest_3k_gemma-2-9b-it": {
+    "most_common_removed_nonstropwords": {
+      "user": 1522,
+      "wall": 361,
+      "build": 360,
+      "'s": 269,
+      "not": 247,
+      "\ud83d\ude02": 184,
+      "like": 169,
+      "'m": 158,
+      "daca": 153,
+      "n't": 149
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.5003287310979618,
+      "wall": 0.5356083086053413,
+      "build": 0.5741626794258373,
+      "'s": 0.7598870056497176,
+      "not": 0.6432291666666666,
+      "\ud83d\ude02": 0.7022900763358778,
+      "like": 0.5105740181268882,
+      "'m": 0.9634146341463414,
+      "daca": 0.51,
+      "n't": 0.32181425485961124
+    }
+  },
+  "semevalhatetest_3k_gemma-3-4b-it": {
+    "most_common_removed_nonstropwords": {
+      "user": 745,
+      "wall": 477,
+      "build": 473,
+      "'s": 270,
+      "illegal": 242,
+      "bitch": 235,
+      "daca": 205,
+      "n't": 197,
+      "not": 162,
+      "aliens": 156
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.24490466798159105,
+      "wall": 0.7077151335311572,
+      "build": 0.7543859649122807,
+      "'s": 0.7627118644067796,
+      "illegal": 0.5307017543859649,
+      "bitch": 0.16117969821673525,
+      "daca": 0.6833333333333333,
+      "n't": 0.42548596112311016,
+      "not": 0.421875,
+      "aliens": 0.6046511627906976
+    }
+  },
+  "semevalhatetrainAll_3k_Llama-3.1-8B-Instruct": {
+    "most_common_removed_nonstropwords": {
+      "user": 1586,
+      "not": 425,
+      "'s": 247,
+      "n't": 229,
+      "like": 156,
+      "'re": 98,
+      "get": 96,
+      "amp": 96,
+      "\u2019s": 95,
+      "illegal": 91
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.772528007793473,
+      "not": 0.8799171842650103,
+      "'s": 0.7118155619596542,
+      "n't": 0.7387096774193549,
+      "like": 0.6812227074235808,
+      "'re": 0.8990825688073395,
+      "get": 0.5614035087719298,
+      "amp": 0.9230769230769231,
+      "\u2019s": 0.8333333333333334,
+      "illegal": 0.40625
+    }
+  },
+  "semevalhatetrainAll_3k_Phi-4-mini-instruct": {
+    "most_common_removed_nonstropwords": {
+      "user": 686,
+      "not": 207,
+      "'s": 154,
+      "n't": 129,
+      "amp": 102,
+      "build": 96,
+      "wall": 87,
+      "like": 56,
+      "\u2019s": 52,
+      "stop": 48
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.33414515343399903,
+      "not": 0.42857142857142855,
+      "'s": 0.4438040345821326,
+      "n't": 0.4161290322580645,
+      "amp": 0.9807692307692307,
+      "build": 0.46601941747572817,
+      "wall": 0.41232227488151657,
+      "like": 0.2445414847161572,
+      "\u2019s": 0.45614035087719296,
+      "stop": 0.3310344827586207
+    }
+  },
+  "semevalhatetrainAll_3k_Qwen2.5-7B-Instruct": {
+    "most_common_removed_nonstropwords": {
+      "user": 642,
+      "not": 326,
+      "'s": 226,
+      "n't": 190,
+      "like": 105,
+      "amp": 97,
+      "bitch": 86,
+      "'re": 85,
+      "one": 79,
+      "\u2019s": 78
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.3127131027764247,
+      "not": 0.6749482401656315,
+      "'s": 0.6512968299711815,
+      "n't": 0.6129032258064516,
+      "like": 0.4585152838427948,
+      "amp": 0.9326923076923077,
+      "bitch": 0.23756906077348067,
+      "'re": 0.7798165137614679,
+      "one": 0.6370967741935484,
+      "\u2019s": 0.6842105263157895
+    }
+  },
+  "semevalhatetrainAll_3k_gemma-2-9b-it": {
+    "most_common_removed_nonstropwords": {
+      "user": 1071,
+      "not": 321,
+      "'s": 240,
+      "build": 122,
+      "wall": 113,
+      "amp": 102,
+      "like": 98,
+      "'re": 91,
+      "n't": 85,
+      "u": 80
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.521675596687774,
+      "not": 0.6645962732919255,
+      "'s": 0.69164265129683,
+      "build": 0.5922330097087378,
+      "wall": 0.5355450236966824,
+      "amp": 0.9807692307692307,
+      "like": 0.4279475982532751,
+      "'re": 0.8348623853211009,
+      "n't": 0.27419354838709675,
+      "u": 0.7079646017699115
+    }
+  },
+  "semevalhatetrainAll_3k_gemma-3-4b-it": {
+    "most_common_removed_nonstropwords": {
+      "user": 457,
+      "'s": 257,
+      "not": 202,
+      "build": 165,
+      "wall": 153,
+      "n't": 133,
+      "amp": 104,
+      "like": 100,
+      "'re": 84,
+      "u": 70
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.22260107160253287,
+      "'s": 0.7406340057636888,
+      "not": 0.41821946169772256,
+      "build": 0.8009708737864077,
+      "wall": 0.7251184834123223,
+      "n't": 0.4290322580645161,
+      "amp": 1.0,
+      "like": 0.4366812227074236,
+      "'re": 0.7706422018348624,
+      "u": 0.6194690265486725
+    }
+  },
+  "semevalironytest_3k_Llama-3.1-8B-Instruct": {
+    "most_common_removed_nonstropwords": {
+      "user": 312,
+      "not": 146,
+      "'s": 57,
+      "n't": 45,
+      "'m": 30,
+      "one": 23,
+      "like": 20,
+      "irony": 19,
+      "sarcasm": 18,
+      "'re": 18
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.6709677419354839,
+      "not": 0.6108786610878661,
+      "'s": 0.6263736263736264,
+      "n't": 0.6818181818181818,
+      "'m": 0.8571428571428571,
+      "one": 0.6764705882352942,
+      "like": 0.5405405405405406,
+      "irony": 0.17117117117117117,
+      "sarcasm": 0.16981132075471697,
+      "'re": 0.9
+    }
+  },
+  "semevalironytest_3k_Phi-4-mini-instruct": {
+    "most_common_removed_nonstropwords": {
+      "user": 130,
+      "not": 72,
+      "'s": 33,
+      "'m": 19,
+      "n't": 16,
+      "'ve": 10,
+      "get": 8,
+      "'re": 8,
+      "one": 8,
+      "would": 8
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.27956989247311825,
+      "not": 0.301255230125523,
+      "'s": 0.3626373626373626,
+      "'m": 0.5428571428571428,
+      "n't": 0.24242424242424243,
+      "'ve": 0.5882352941176471,
+      "get": 0.2222222222222222,
+      "'re": 0.4,
+      "one": 0.23529411764705882,
+      "would": 0.4444444444444444
+    }
+  },
+  "semevalironytest_3k_Qwen2.5-7B-Instruct": {
+    "most_common_removed_nonstropwords": {
+      "user": 223,
+      "not": 135,
+      "'s": 60,
+      "n't": 45,
+      "'m": 29,
+      "one": 21,
+      "'re": 18,
+      "like": 16,
+      "'ve": 15,
+      "sarcasm": 13
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.47956989247311826,
+      "not": 0.5648535564853556,
+      "'s": 0.6593406593406593,
+      "n't": 0.6818181818181818,
+      "'m": 0.8285714285714286,
+      "one": 0.6176470588235294,
+      "'re": 0.9,
+      "like": 0.43243243243243246,
+      "'ve": 0.8823529411764706,
+      "sarcasm": 0.12264150943396226
+    }
+  },
+  "semevalironytest_3k_gemma-2-9b-it": {
+    "most_common_removed_nonstropwords": {
+      "user": 210,
+      "not": 107,
+      "'s": 68,
+      "'m": 30,
+      "n't": 19,
+      "'ve": 15,
+      "like": 14,
+      "'re": 14,
+      "\ud83d\ude02": 12,
+      "u": 11
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.45161290322580644,
+      "not": 0.4476987447698745,
+      "'s": 0.7472527472527473,
+      "'m": 0.8571428571428571,
+      "n't": 0.2878787878787879,
+      "'ve": 0.8823529411764706,
+      "like": 0.3783783783783784,
+      "'re": 0.7,
+      "\ud83d\ude02": 0.5,
+      "u": 0.9166666666666666
+    }
+  },
+  "semevalironytest_3k_gemma-3-4b-it": {
+    "most_common_removed_nonstropwords": {
+      "user": 123,
+      "'s": 68,
+      "not": 67,
+      "'m": 33,
+      "n't": 31,
+      "like": 18,
+      "'re": 18,
+      "one": 17,
+      "'ve": 14,
+      "irony": 12
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.2645161290322581,
+      "'s": 0.7472527472527473,
+      "not": 0.2803347280334728,
+      "'m": 0.9428571428571428,
+      "n't": 0.4696969696969697,
+      "like": 0.4864864864864865,
+      "'re": 0.9,
+      "one": 0.5,
+      "'ve": 0.8235294117647058,
+      "irony": 0.10810810810810811
+    }
+  },
+  "semevalironytrainAll_3k_Llama-3.1-8B-Instruct": {
+    "most_common_removed_nonstropwords": {
+      "user": 1136,
+      "'s": 274,
+      "n't": 176,
+      "not": 169,
+      "'m": 127,
+      "like": 92,
+      "one": 58,
+      "get": 51,
+      "would": 47,
+      "ca": 47
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.6547550432276658,
+      "'s": 0.6919191919191919,
+      "n't": 0.6717557251908397,
+      "not": 0.8325123152709359,
+      "'m": 0.8758620689655172,
+      "like": 0.6814814814814815,
+      "one": 0.58,
+      "get": 0.38345864661654133,
+      "would": 0.7704918032786885,
+      "ca": 0.6351351351351351
+    }
+  },
+  "semevalironytrainAll_3k_Phi-4-mini-instruct": {
+    "most_common_removed_nonstropwords": {
+      "user": 514,
+      "'s": 166,
+      "n't": 105,
+      "'m": 92,
+      "not": 78,
+      "get": 36,
+      "would": 34,
+      "like": 28,
+      "oh": 26,
+      "'ve": 26
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.2962536023054755,
+      "'s": 0.41919191919191917,
+      "n't": 0.40076335877862596,
+      "'m": 0.6344827586206897,
+      "not": 0.3842364532019704,
+      "get": 0.2706766917293233,
+      "would": 0.5573770491803278,
+      "like": 0.2074074074074074,
+      "oh": 0.4,
+      "'ve": 0.5306122448979592
+    }
+  },
+  "semevalironytrainAll_3k_Qwen2.5-7B-Instruct": {
+    "most_common_removed_nonstropwords": {
+      "user": 814,
+      "'s": 282,
+      "n't": 179,
+      "not": 157,
+      "'m": 140,
+      "like": 70,
+      "one": 55,
+      "2": 48,
+      "'re": 44,
+      "'ve": 43
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.469164265129683,
+      "'s": 0.7121212121212122,
+      "n't": 0.683206106870229,
+      "not": 0.7733990147783252,
+      "'m": 0.9655172413793104,
+      "like": 0.5185185185185185,
+      "one": 0.55,
+      "2": 0.7164179104477612,
+      "'re": 0.8148148148148148,
+      "'ve": 0.8775510204081632
+    }
+  },
+  "semevalironytrainAll_3k_gemma-2-9b-it": {
+    "most_common_removed_nonstropwords": {
+      "user": 703,
+      "'s": 302,
+      "'m": 135,
+      "not": 109,
+      "n't": 88,
+      "like": 66,
+      "'ve": 45,
+      "'re": 44,
+      "'ll": 33,
+      "oh": 31
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.4051873198847262,
+      "'s": 0.7626262626262627,
+      "'m": 0.9310344827586207,
+      "not": 0.5369458128078818,
+      "n't": 0.33587786259541985,
+      "like": 0.4888888888888889,
+      "'ve": 0.9183673469387755,
+      "'re": 0.8148148148148148,
+      "'ll": 0.8048780487804879,
+      "oh": 0.47692307692307695
+    }
+  },
+  "semevalironytrainAll_3k_gemma-3-4b-it": {
+    "most_common_removed_nonstropwords": {
+      "user": 397,
+      "'s": 315,
+      "'m": 131,
+      "n't": 126,
+      "not": 101,
+      "like": 68,
+      "oh": 48,
+      "'ve": 44,
+      "2": 43,
+      "really": 41
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.22881844380403457,
+      "'s": 0.7954545454545454,
+      "'m": 0.903448275862069,
+      "n't": 0.48091603053435117,
+      "not": 0.4975369458128079,
+      "like": 0.5037037037037037,
+      "oh": 0.7384615384615385,
+      "'ve": 0.8979591836734694,
+      "2": 0.6417910447761194,
+      "really": 0.5942028985507246
+    }
+  },
+  "semevaloffensivetest_3k_Llama-3.1-8B-Instruct": {
+    "most_common_removed_nonstropwords": {
+      "user": 418,
+      "not": 94,
+      "'s": 75,
+      "n't": 63,
+      "\u2019s": 52,
+      "like": 41,
+      "n\u2019t": 37,
+      "one": 31,
+      "via": 23,
+      "get": 22
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.7219343696027634,
+      "not": 0.8703703703703703,
+      "'s": 0.6521739130434783,
+      "n't": 0.75,
+      "\u2019s": 0.8125,
+      "like": 0.6307692307692307,
+      "n\u2019t": 0.7551020408163265,
+      "one": 0.6078431372549019,
+      "via": 0.696969696969697,
+      "get": 0.4230769230769231
+    }
+  },
+  "semevaloffensivetest_3k_Phi-4-mini-instruct": {
+    "most_common_removed_nonstropwords": {
+      "user": 196,
+      "'s": 45,
+      "not": 30,
+      "\u2019s": 30,
+      "n't": 29,
+      "like": 18,
+      "q": 17,
+      "us": 15,
+      "away": 14,
+      "news": 14
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.3385146804835924,
+      "'s": 0.391304347826087,
+      "not": 0.2777777777777778,
+      "\u2019s": 0.46875,
+      "n't": 0.34523809523809523,
+      "like": 0.27692307692307694,
+      "q": 1.0,
+      "us": 0.3333333333333333,
+      "away": 0.6363636363636364,
+      "news": 0.5
+    }
+  },
+  "semevaloffensivetest_3k_Qwen2.5-7B-Instruct": {
+    "most_common_removed_nonstropwords": {
+      "user": 223,
+      "'s": 81,
+      "not": 78,
+      "n't": 54,
+      "\u2019s": 51,
+      "n\u2019t": 39,
+      "like": 38,
+      "one": 31,
+      "us": 23,
+      "liberals": 20
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.385146804835924,
+      "'s": 0.7043478260869566,
+      "not": 0.7222222222222222,
+      "n't": 0.6428571428571429,
+      "\u2019s": 0.796875,
+      "n\u2019t": 0.7959183673469388,
+      "like": 0.5846153846153846,
+      "one": 0.6078431372549019,
+      "us": 0.5111111111111111,
+      "liberals": 0.24390243902439024
+    }
+  },
+  "semevaloffensivetest_3k_gemma-2-9b-it": {
+    "most_common_removed_nonstropwords": {
+      "user": 269,
+      "'s": 78,
+      "not": 65,
+      "like": 32,
+      "\u2019s": 32,
+      "n't": 29,
+      "via": 27,
+      "n\u2019t": 26,
+      "'m": 17,
+      "one": 17
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.46459412780656306,
+      "'s": 0.6782608695652174,
+      "not": 0.6018518518518519,
+      "like": 0.49230769230769234,
+      "\u2019s": 0.5,
+      "n't": 0.34523809523809523,
+      "via": 0.8181818181818182,
+      "n\u2019t": 0.5306122448979592,
+      "'m": 0.8947368421052632,
+      "one": 0.3333333333333333
+    }
+  },
+  "semevaloffensivetest_3k_gemma-3-4b-it": {
+    "most_common_removed_nonstropwords": {
+      "user": 175,
+      "'s": 81,
+      "like": 29,
+      "not": 29,
+      "\u2019s": 26,
+      "maga": 22,
+      "via": 22,
+      "one": 22,
+      "n't": 18,
+      "away": 17
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.3022452504317789,
+      "'s": 0.7043478260869566,
+      "like": 0.4461538461538462,
+      "not": 0.26851851851851855,
+      "\u2019s": 0.40625,
+      "maga": 0.38596491228070173,
+      "via": 0.6666666666666666,
+      "one": 0.43137254901960786,
+      "n't": 0.21428571428571427,
+      "away": 0.7727272727272727
+    }
+  },
+  "semevaloffensivetrainAll_3k_Llama-3.1-8B-Instruct": {
+    "most_common_removed_nonstropwords": {
+      "user": 6154,
+      "not": 370,
+      "'s": 245,
+      "\u2019s": 204,
+      "n't": 186,
+      "n\u2019t": 184,
+      "like": 156,
+      "amp": 142,
+      "would": 115,
+      "one": 93
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.8298274002157497,
+      "not": 0.8809523809523809,
+      "'s": 0.7020057306590258,
+      "\u2019s": 0.9230769230769231,
+      "n't": 0.6413793103448275,
+      "n\u2019t": 0.8598130841121495,
+      "like": 0.636734693877551,
+      "amp": 0.9161290322580645,
+      "would": 0.7516339869281046,
+      "one": 0.6549295774647887
+    }
+  },
+  "semevaloffensivetrainAll_3k_Phi-4-mini-instruct": {
+    "most_common_removed_nonstropwords": {
+      "user": 3067,
+      "amp": 149,
+      "'s": 142,
+      "not": 132,
+      "\u2019s": 114,
+      "n't": 82,
+      "would": 74,
+      "like": 65,
+      "n\u2019t": 63,
+      ".@user": 39
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.4135652642934196,
+      "amp": 0.9612903225806452,
+      "'s": 0.4068767908309456,
+      "not": 0.3142857142857143,
+      "\u2019s": 0.5158371040723982,
+      "n't": 0.2827586206896552,
+      "would": 0.48366013071895425,
+      "like": 0.2653061224489796,
+      "n\u2019t": 0.29439252336448596,
+      ".@user": 0.975
+    }
+  },
+  "semevaloffensivetrainAll_3k_Qwen2.5-7B-Instruct": {
+    "most_common_removed_nonstropwords": {
+      "user": 2916,
+      "not": 292,
+      "'s": 229,
+      "n't": 182,
+      "\u2019s": 168,
+      "amp": 138,
+      "n\u2019t": 126,
+      "like": 116,
+      "would": 80,
+      "one": 72
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.3932038834951456,
+      "not": 0.6952380952380952,
+      "'s": 0.6561604584527221,
+      "n't": 0.6275862068965518,
+      "\u2019s": 0.7601809954751131,
+      "amp": 0.8903225806451613,
+      "n\u2019t": 0.5887850467289719,
+      "like": 0.47346938775510206,
+      "would": 0.5228758169934641,
+      "one": 0.5070422535211268
+    }
+  },
+  "semevaloffensivetrainAll_3k_gemma-2-9b-it": {
+    "most_common_removed_nonstropwords": {
+      "user": 4957,
+      "not": 271,
+      "'s": 252,
+      "\u2019s": 157,
+      "amp": 152,
+      "n\u2019t": 108,
+      "like": 96,
+      "n't": 87,
+      "\ud83d\ude02": 69,
+      "would": 66
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.6684196332254585,
+      "not": 0.6452380952380953,
+      "'s": 0.7220630372492837,
+      "\u2019s": 0.7104072398190046,
+      "amp": 0.9806451612903225,
+      "n\u2019t": 0.5046728971962616,
+      "like": 0.39183673469387753,
+      "n't": 0.3,
+      "\ud83d\ude02": 0.5798319327731093,
+      "would": 0.43137254901960786
+    }
+  },
+  "semevaloffensivetrainAll_3k_gemma-3-4b-it": {
+    "most_common_removed_nonstropwords": {
+      "user": 2904,
+      "'s": 276,
+      "amp": 151,
+      "not": 139,
+      "\u2019s": 136,
+      "n't": 117,
+      "like": 111,
+      "would": 80,
+      "n\u2019t": 79,
+      "one": 63
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.39158576051779936,
+      "'s": 0.7908309455587392,
+      "amp": 0.9741935483870968,
+      "not": 0.33095238095238094,
+      "\u2019s": 0.6153846153846154,
+      "n't": 0.40344827586206894,
+      "like": 0.4530612244897959,
+      "would": 0.5228758169934641,
+      "n\u2019t": 0.3691588785046729,
+      "one": 0.44366197183098594
+    }
+  }
+}

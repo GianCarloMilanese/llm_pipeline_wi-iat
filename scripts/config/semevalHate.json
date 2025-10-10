@@ -1,0 +1,13 @@
+{
+  "prompts": {
+    "stopwords": {
+        "query" : "You specialize in removing stopwords from text. Stopwords are words that are not relevant for processing a text. Stopwords typically include articles, prepositions, pronouns, and auxiliary verbs. For example, the words 'is', 'are', 'being', 'you', 'me', 'the', 'an', 'and', 'I', 'which', 'that', 'have', 'by', 'for' and their alternative forms are usually considered stopwords. Note that whether a word is a stopword or not depends on the context of the text or of an application. In this case, the relevant task is detecting if a tweet contains hate speech or not. In this task, the word 'not' is often not considered a stopword, and it should be kept in the text. Please provide a version without stopwords of the following paragraph: '{}'. Print only the paragraph without stopwords, do not add any explanation, details or notes."
+    },
+    "lemmatization": {
+      "query": "You specialize in text lemmatization. Text lemmatization is a natural language processing technique that is used to reduce words to their lemma, also known as the dictionary form. The process of lemmatization is used to normalize text and make it easier to process. For example, the verbs 'is', 'are', and 'being' must all be reduced down to the common lemma 'be'. As another example, \"he's going\" must be lemmatized to \"he be go\". Lemmatization depends on correctly identifying the intended part of speech and meaning of a word in a sentence, as well as within the larger context surrounding that sentence, such as neighbouring sentences or even an entire document. Please provide the lemmatized version of this paragraph: '{}'. Print only the lemmatized paragraph, do not add any explanation, details or notes."
+    },
+    "stemming": {
+      "query": "You specialize in text stemming. Text stemming is a natural language processing technique that is used to reduce words to their base form, also known as the root form. The process of stemming is used to normalize text and make it easier to process. For example, the words 'programming,' 'programmer,' and 'programs' can all be reduced down to the common stem 'program'. As another example, the words 'argue', 'argued', 'argument', 'arguing', and 'arguer' all stem to 'argu'. Please provide the stemmed version of this paragraph: '{}'. Print only the stemmed paragraph, do not add any explanation, details or notes."
+    }
+  }
+}

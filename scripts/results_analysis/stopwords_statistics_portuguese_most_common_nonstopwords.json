@@ -1,0 +1,522 @@
+{
+  "cardiffnlp_portuguese_test_Llama-3.1-8B-Instruct_en-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "master": 85,
+      "chef": 85,
+      "br": 85,
+      "user": 83,
+      "n\u00e3o": 73,
+      "encontro": 45,
+      "pra": 42,
+      "q": 32,
+      "noite": 25,
+      "vivo": 25
+    },
+    "percentage_removed_nonstopwords": {
+      "master": 0.28523489932885904,
+      "chef": 0.2814569536423841,
+      "br": 0.2768729641693811,
+      "user": 0.37727272727272726,
+      "n\u00e3o": 0.5214285714285715,
+      "encontro": 0.3333333333333333,
+      "pra": 0.6363636363636364,
+      "q": 0.6037735849056604,
+      "noite": 0.3787878787878788,
+      "vivo": 0.19230769230769232
+    }
+  },
+  "cardiffnlp_portuguese_test_Llama-3.1-8B-Instruct_pt-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "br": 212,
+      "master": 208,
+      "chef": 208,
+      "user": 147,
+      "vivo": 79,
+      "show": 78,
+      "encontro": 70,
+      "video": 64,
+      "n\u00e3o": 60,
+      "pra": 47
+    },
+    "percentage_removed_nonstopwords": {
+      "br": 0.6905537459283387,
+      "master": 0.697986577181208,
+      "chef": 0.6887417218543046,
+      "user": 0.6681818181818182,
+      "vivo": 0.6076923076923076,
+      "show": 0.5909090909090909,
+      "encontro": 0.5185185185185185,
+      "video": 0.5871559633027523,
+      "n\u00e3o": 0.42857142857142855,
+      "pra": 0.7121212121212122
+    }
+  },
+  "cardiffnlp_portuguese_test_Phi-4-mini-instruct_en-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "n\u00e3o": 74,
+      "br": 65,
+      "user": 62,
+      "master": 60,
+      "chef": 60,
+      "vivo": 35,
+      "show": 29,
+      "video": 24,
+      "\ud83d\ude02": 22,
+      "pra": 20
+    },
+    "percentage_removed_nonstopwords": {
+      "n\u00e3o": 0.5285714285714286,
+      "br": 0.21172638436482086,
+      "user": 0.2818181818181818,
+      "master": 0.20134228187919462,
+      "chef": 0.1986754966887417,
+      "vivo": 0.2692307692307692,
+      "show": 0.2196969696969697,
+      "video": 0.22018348623853212,
+      "\ud83d\ude02": 0.19469026548672566,
+      "pra": 0.30303030303030304
+    }
+  },
+  "cardiffnlp_portuguese_test_Phi-4-mini-instruct_pt-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "master": 85,
+      "chef": 85,
+      "br": 85,
+      "user": 63,
+      "n\u00e3o": 52,
+      "show": 34,
+      "vivo": 33,
+      "q": 30,
+      "video": 28,
+      "pra": 25
+    },
+    "percentage_removed_nonstopwords": {
+      "master": 0.28523489932885904,
+      "chef": 0.2814569536423841,
+      "br": 0.2768729641693811,
+      "user": 0.2863636363636364,
+      "n\u00e3o": 0.37142857142857144,
+      "show": 0.25757575757575757,
+      "vivo": 0.25384615384615383,
+      "q": 0.5660377358490566,
+      "video": 0.25688073394495414,
+      "pra": 0.3787878787878788
+    }
+  },
+  "cardiffnlp_portuguese_test_Qwen2.5-7B-Instruct_en-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "n\u00e3o": 129,
+      "br": 97,
+      "chef": 97,
+      "master": 96,
+      "user": 61,
+      "show": 43,
+      "\ud83d\ude02": 43,
+      "vivo": 41,
+      "q": 37,
+      "video": 35
+    },
+    "percentage_removed_nonstopwords": {
+      "n\u00e3o": 0.9214285714285714,
+      "br": 0.31596091205211724,
+      "chef": 0.3211920529801324,
+      "master": 0.3221476510067114,
+      "user": 0.2772727272727273,
+      "show": 0.32575757575757575,
+      "\ud83d\ude02": 0.3805309734513274,
+      "vivo": 0.3153846153846154,
+      "q": 0.6981132075471698,
+      "video": 0.3211009174311927
+    }
+  },
+  "cardiffnlp_portuguese_test_Qwen2.5-7B-Instruct_pt-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "br": 166,
+      "chef": 162,
+      "master": 161,
+      "n\u00e3o": 122,
+      "user": 119,
+      "show": 64,
+      "vivo": 63,
+      "video": 56,
+      "\ud83d\ude02": 56,
+      "q": 38
+    },
+    "percentage_removed_nonstopwords": {
+      "br": 0.5407166123778502,
+      "chef": 0.5364238410596026,
+      "master": 0.540268456375839,
+      "n\u00e3o": 0.8714285714285714,
+      "user": 0.5409090909090909,
+      "show": 0.48484848484848486,
+      "vivo": 0.4846153846153846,
+      "video": 0.5137614678899083,
+      "\ud83d\ude02": 0.49557522123893805,
+      "q": 0.7169811320754716
+    }
+  },
+  "cardiffnlp_portuguese_test_gemma-2-9b-it_en-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "br": 161,
+      "master": 153,
+      "chef": 153,
+      "user": 93,
+      "n\u00e3o": 79,
+      "vivo": 68,
+      "show": 66,
+      "video": 60,
+      "pra": 54,
+      "q": 44
+    },
+    "percentage_removed_nonstopwords": {
+      "br": 0.5244299674267101,
+      "master": 0.5134228187919463,
+      "chef": 0.5066225165562914,
+      "user": 0.42272727272727273,
+      "n\u00e3o": 0.5642857142857143,
+      "vivo": 0.5230769230769231,
+      "show": 0.5,
+      "video": 0.5504587155963303,
+      "pra": 0.8181818181818182,
+      "q": 0.8301886792452831
+    }
+  },
+  "cardiffnlp_portuguese_test_gemma-2-9b-it_pt-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "br": 224,
+      "master": 216,
+      "chef": 216,
+      "user": 107,
+      "n\u00e3o": 101,
+      "show": 82,
+      "vivo": 82,
+      "video": 73,
+      "pra": 60,
+      "q": 49
+    },
+    "percentage_removed_nonstopwords": {
+      "br": 0.7296416938110749,
+      "master": 0.7248322147651006,
+      "chef": 0.7152317880794702,
+      "user": 0.4863636363636364,
+      "n\u00e3o": 0.7214285714285714,
+      "show": 0.6212121212121212,
+      "vivo": 0.6307692307692307,
+      "video": 0.6697247706422018,
+      "pra": 0.9090909090909091,
+      "q": 0.9245283018867925
+    }
+  },
+  "cardiffnlp_portuguese_test_gemma-3-4b-it_en-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "br": 280,
+      "chef": 274,
+      "master": 272,
+      "show": 112,
+      "vivo": 112,
+      "n\u00e3o": 100,
+      "video": 97,
+      "user": 94,
+      "\ud83d\ude02": 63,
+      "pra": 61
+    },
+    "percentage_removed_nonstopwords": {
+      "br": 0.9120521172638436,
+      "chef": 0.9072847682119205,
+      "master": 0.912751677852349,
+      "show": 0.8484848484848485,
+      "vivo": 0.8615384615384616,
+      "n\u00e3o": 0.7142857142857143,
+      "video": 0.8899082568807339,
+      "user": 0.42727272727272725,
+      "\ud83d\ude02": 0.5575221238938053,
+      "pra": 0.9242424242424242
+    }
+  },
+  "cardiffnlp_portuguese_test_gemma-3-4b-it_pt-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "br": 265,
+      "master": 260,
+      "chef": 259,
+      "show": 106,
+      "vivo": 106,
+      "n\u00e3o": 101,
+      "video": 94,
+      "user": 84,
+      "bial": 51,
+      "the": 45
+    },
+    "percentage_removed_nonstopwords": {
+      "br": 0.8631921824104235,
+      "master": 0.87248322147651,
+      "chef": 0.8576158940397351,
+      "show": 0.803030303030303,
+      "vivo": 0.8153846153846154,
+      "n\u00e3o": 0.7214285714285714,
+      "video": 0.8623853211009175,
+      "user": 0.38181818181818183,
+      "bial": 0.6710526315789473,
+      "the": 0.7142857142857143
+    }
+  },
+  "cardiffnlp_portuguese_train_Llama-3.1-8B-Instruct_en-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "br": 213,
+      "master": 208,
+      "chef": 208,
+      "user": 192,
+      "n\u00e3o": 150,
+      "encontro": 99,
+      "pra": 72,
+      "bial": 60,
+      "q": 54,
+      "show": 51
+    },
+    "percentage_removed_nonstopwords": {
+      "br": 0.3193403298350825,
+      "master": 0.321483771251932,
+      "chef": 0.3195084485407066,
+      "user": 0.46153846153846156,
+      "n\u00e3o": 0.5474452554744526,
+      "encontro": 0.43805309734513276,
+      "pra": 0.5853658536585366,
+      "bial": 0.32085561497326204,
+      "q": 0.675,
+      "show": 0.19767441860465115
+    }
+  },
+  "cardiffnlp_portuguese_train_Llama-3.1-8B-Instruct_pt-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "br": 476,
+      "chef": 462,
+      "master": 461,
+      "user": 286,
+      "show": 147,
+      "vivo": 139,
+      "video": 129,
+      "encontro": 125,
+      "n\u00e3o": 116,
+      "\ud83d\ude02": 112
+    },
+    "percentage_removed_nonstopwords": {
+      "br": 0.7136431784107946,
+      "chef": 0.7096774193548387,
+      "master": 0.7125193199381762,
+      "user": 0.6875,
+      "show": 0.5697674418604651,
+      "vivo": 0.594017094017094,
+      "video": 0.602803738317757,
+      "encontro": 0.5530973451327433,
+      "n\u00e3o": 0.4233576642335766,
+      "\ud83d\ude02": 0.5863874345549738
+    }
+  },
+  "cardiffnlp_portuguese_train_Phi-4-mini-instruct_en-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "br": 157,
+      "master": 155,
+      "chef": 155,
+      "n\u00e3o": 128,
+      "user": 114,
+      "vivo": 66,
+      "show": 60,
+      "video": 46,
+      "pra": 43,
+      "the": 39
+    },
+    "percentage_removed_nonstopwords": {
+      "br": 0.2353823088455772,
+      "master": 0.23956723338485317,
+      "chef": 0.23809523809523808,
+      "n\u00e3o": 0.46715328467153283,
+      "user": 0.27403846153846156,
+      "vivo": 0.28205128205128205,
+      "show": 0.23255813953488372,
+      "video": 0.21495327102803738,
+      "pra": 0.34959349593495936,
+      "the": 0.2805755395683453
+    }
+  },
+  "cardiffnlp_portuguese_train_Phi-4-mini-instruct_pt-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "br": 180,
+      "master": 178,
+      "chef": 178,
+      "user": 112,
+      "n\u00e3o": 94,
+      "show": 71,
+      "pra": 69,
+      "vivo": 67,
+      "video": 58,
+      "the": 49
+    },
+    "percentage_removed_nonstopwords": {
+      "br": 0.2698650674662669,
+      "master": 0.2751159196290572,
+      "chef": 0.27342549923195086,
+      "user": 0.2692307692307692,
+      "n\u00e3o": 0.34306569343065696,
+      "show": 0.2751937984496124,
+      "pra": 0.5609756097560976,
+      "vivo": 0.2863247863247863,
+      "video": 0.27102803738317754,
+      "the": 0.35251798561151076
+    }
+  },
+  "cardiffnlp_portuguese_train_Qwen2.5-7B-Instruct_en-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "br": 267,
+      "master": 261,
+      "chef": 261,
+      "n\u00e3o": 244,
+      "user": 132,
+      "show": 72,
+      "vivo": 69,
+      "pra": 64,
+      "video": 63,
+      "q": 57
+    },
+    "percentage_removed_nonstopwords": {
+      "br": 0.4002998500749625,
+      "master": 0.4034003091190108,
+      "chef": 0.4009216589861751,
+      "n\u00e3o": 0.8905109489051095,
+      "user": 0.3173076923076923,
+      "show": 0.27906976744186046,
+      "vivo": 0.2948717948717949,
+      "pra": 0.5203252032520326,
+      "video": 0.29439252336448596,
+      "q": 0.7125
+    }
+  },
+  "cardiffnlp_portuguese_train_Qwen2.5-7B-Instruct_pt-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "br": 391,
+      "master": 378,
+      "chef": 378,
+      "n\u00e3o": 243,
+      "user": 224,
+      "show": 151,
+      "vivo": 148,
+      "video": 136,
+      "bial": 73,
+      "\ud83d\ude02": 69
+    },
+    "percentage_removed_nonstopwords": {
+      "br": 0.5862068965517241,
+      "master": 0.5842349304482226,
+      "chef": 0.5806451612903226,
+      "n\u00e3o": 0.8868613138686131,
+      "user": 0.5384615384615384,
+      "show": 0.5852713178294574,
+      "vivo": 0.6324786324786325,
+      "video": 0.6355140186915887,
+      "bial": 0.39037433155080214,
+      "\ud83d\ude02": 0.3612565445026178
+    }
+  },
+  "cardiffnlp_portuguese_train_gemma-2-9b-it_en-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "br": 287,
+      "master": 281,
+      "chef": 281,
+      "n\u00e3o": 153,
+      "show": 151,
+      "vivo": 147,
+      "user": 144,
+      "video": 137,
+      "pra": 104,
+      "bial": 69
+    },
+    "percentage_removed_nonstopwords": {
+      "br": 0.4302848575712144,
+      "master": 0.43431221020092736,
+      "chef": 0.43164362519201227,
+      "n\u00e3o": 0.5583941605839416,
+      "show": 0.5852713178294574,
+      "vivo": 0.6282051282051282,
+      "user": 0.34615384615384615,
+      "video": 0.6401869158878505,
+      "pra": 0.8455284552845529,
+      "bial": 0.3689839572192513
+    }
+  },
+  "cardiffnlp_portuguese_train_gemma-2-9b-it_pt-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "br": 442,
+      "master": 432,
+      "chef": 432,
+      "n\u00e3o": 184,
+      "user": 183,
+      "show": 181,
+      "vivo": 176,
+      "video": 163,
+      "bial": 109,
+      "pra": 106
+    },
+    "percentage_removed_nonstopwords": {
+      "br": 0.6626686656671664,
+      "master": 0.6676970633693973,
+      "chef": 0.663594470046083,
+      "n\u00e3o": 0.6715328467153284,
+      "user": 0.43990384615384615,
+      "show": 0.7015503875968992,
+      "vivo": 0.7521367521367521,
+      "video": 0.7616822429906542,
+      "bial": 0.5828877005347594,
+      "pra": 0.8617886178861789
+    }
+  },
+  "cardiffnlp_portuguese_train_gemma-3-4b-it_en-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "br": 606,
+      "master": 588,
+      "chef": 587,
+      "show": 212,
+      "vivo": 205,
+      "video": 192,
+      "n\u00e3o": 191,
+      "user": 186,
+      "bial": 127,
+      "pra": 117
+    },
+    "percentage_removed_nonstopwords": {
+      "br": 0.9085457271364318,
+      "master": 0.9088098918083463,
+      "chef": 0.901689708141321,
+      "show": 0.8217054263565892,
+      "vivo": 0.8760683760683761,
+      "video": 0.897196261682243,
+      "n\u00e3o": 0.6970802919708029,
+      "user": 0.44711538461538464,
+      "bial": 0.679144385026738,
+      "pra": 0.9512195121951219
+    }
+  },
+  "cardiffnlp_portuguese_train_gemma-3-4b-it_pt-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "br": 578,
+      "master": 564,
+      "chef": 563,
+      "show": 211,
+      "vivo": 208,
+      "video": 190,
+      "n\u00e3o": 188,
+      "user": 142,
+      "bial": 105,
+      "pra": 94
+    },
+    "percentage_removed_nonstopwords": {
+      "br": 0.8665667166416792,
+      "master": 0.8717156105100463,
+      "chef": 0.8648233486943164,
+      "show": 0.8178294573643411,
+      "vivo": 0.8888888888888888,
+      "video": 0.8878504672897196,
+      "n\u00e3o": 0.6861313868613139,
+      "user": 0.34134615384615385,
+      "bial": 0.5614973262032086,
+      "pra": 0.7642276422764228
+    }
+  }
+}

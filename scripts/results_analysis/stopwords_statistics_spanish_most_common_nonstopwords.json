@@ -1,0 +1,522 @@
+{
+  "cardiffnlp_spanish_test_Llama-3.1-8B-Instruct_en-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 264,
+      "no": 138,
+      "si": 54,
+      "tan": 23,
+      "gracias": 22,
+      "ahora": 21,
+      "q": 18,
+      "hoy": 17,
+      "bueno": 16,
+      "muchas": 16
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.39520958083832336,
+      "no": 0.4981949458483754,
+      "si": 0.5934065934065934,
+      "tan": 0.6388888888888888,
+      "gracias": 0.4583333333333333,
+      "ahora": 0.65625,
+      "q": 0.5454545454545454,
+      "hoy": 0.3541666666666667,
+      "bueno": 0.42105263157894735,
+      "muchas": 0.6956521739130435
+    }
+  },
+  "cardiffnlp_spanish_test_Llama-3.1-8B-Instruct_es-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 548,
+      "no": 47,
+      "si": 22,
+      "q": 21,
+      "hoy": 18,
+      "pues": 15,
+      "bueno": 14,
+      "ahora": 13,
+      "muchas": 13,
+      "tan": 12
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.8203592814371258,
+      "no": 0.16967509025270758,
+      "si": 0.24175824175824176,
+      "q": 0.6363636363636364,
+      "hoy": 0.375,
+      "pues": 0.6,
+      "bueno": 0.3684210526315789,
+      "ahora": 0.40625,
+      "muchas": 0.5652173913043478,
+      "tan": 0.3333333333333333
+    }
+  },
+  "cardiffnlp_spanish_test_Phi-4-mini-instruct_en-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 515,
+      "no": 45,
+      "si": 19,
+      "hoy": 18,
+      "pues": 16,
+      "ahora": 12,
+      "tan": 9,
+      "q": 8,
+      "solo": 7,
+      "muchas": 7
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.7709580838323353,
+      "no": 0.1624548736462094,
+      "si": 0.2087912087912088,
+      "hoy": 0.375,
+      "pues": 0.64,
+      "ahora": 0.375,
+      "tan": 0.25,
+      "q": 0.24242424242424243,
+      "solo": 0.2,
+      "muchas": 0.30434782608695654
+    }
+  },
+  "cardiffnlp_spanish_test_Phi-4-mini-instruct_es-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 345,
+      "no": 54,
+      "q": 13,
+      "si": 12,
+      "ahora": 9,
+      "pues": 8,
+      "tan": 7,
+      "hoy": 7,
+      "bueno": 6,
+      "mas": 6
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.5164670658682635,
+      "no": 0.19494584837545126,
+      "q": 0.3939393939393939,
+      "si": 0.13186813186813187,
+      "ahora": 0.28125,
+      "pues": 0.32,
+      "tan": 0.19444444444444445,
+      "hoy": 0.14583333333333334,
+      "bueno": 0.15789473684210525,
+      "mas": 0.5
+    }
+  },
+  "cardiffnlp_spanish_test_Qwen2.5-7B-Instruct_en-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 445,
+      "no": 233,
+      "si": 48,
+      "q": 26,
+      "tan": 19,
+      "ahora": 18,
+      "muchas": 17,
+      "as\u00ed": 15,
+      "bueno": 14,
+      "http": 14
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.6661676646706587,
+      "no": 0.8411552346570397,
+      "si": 0.5274725274725275,
+      "q": 0.7878787878787878,
+      "tan": 0.5277777777777778,
+      "ahora": 0.5625,
+      "muchas": 0.7391304347826086,
+      "as\u00ed": 0.5769230769230769,
+      "bueno": 0.3684210526315789,
+      "http": 0.9333333333333333
+    }
+  },
+  "cardiffnlp_spanish_test_Qwen2.5-7B-Instruct_es-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 402,
+      "no": 151,
+      "si": 41,
+      "q": 29,
+      "tan": 23,
+      "pues": 17,
+      "solo": 16,
+      "http": 15,
+      "muchas": 15,
+      "hoy": 14
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.6017964071856288,
+      "no": 0.5451263537906137,
+      "si": 0.45054945054945056,
+      "q": 0.8787878787878788,
+      "tan": 0.6388888888888888,
+      "pues": 0.68,
+      "solo": 0.45714285714285713,
+      "http": 1.0,
+      "muchas": 0.6521739130434783,
+      "hoy": 0.2916666666666667
+    }
+  },
+  "cardiffnlp_spanish_test_gemma-2-9b-it_en-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 436,
+      "no": 204,
+      "si": 69,
+      "tan": 32,
+      "q": 31,
+      "hoy": 24,
+      "solo": 19,
+      "pues": 17,
+      "muchas": 17,
+      "ahora": 14
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.6526946107784432,
+      "no": 0.7364620938628159,
+      "si": 0.7582417582417582,
+      "tan": 0.8888888888888888,
+      "q": 0.9393939393939394,
+      "hoy": 0.5,
+      "solo": 0.5428571428571428,
+      "pues": 0.68,
+      "muchas": 0.7391304347826086,
+      "ahora": 0.4375
+    }
+  },
+  "cardiffnlp_spanish_test_gemma-2-9b-it_es-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 564,
+      "no": 151,
+      "si": 60,
+      "tan": 34,
+      "q": 32,
+      "hoy": 29,
+      "pues": 24,
+      "solo": 21,
+      "muchas": 21,
+      "ahora": 19
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.844311377245509,
+      "no": 0.5451263537906137,
+      "si": 0.6593406593406593,
+      "tan": 0.9444444444444444,
+      "q": 0.9696969696969697,
+      "hoy": 0.6041666666666666,
+      "pues": 0.96,
+      "solo": 0.6,
+      "muchas": 0.9130434782608695,
+      "ahora": 0.59375
+    }
+  },
+  "cardiffnlp_spanish_test_gemma-3-4b-it_en-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 362,
+      "no": 161,
+      "si": 61,
+      "tan": 34,
+      "q": 28,
+      "muchas": 22,
+      "solo": 20,
+      "pues": 18,
+      "ahora": 18,
+      "hoy": 18
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.5419161676646707,
+      "no": 0.5812274368231047,
+      "si": 0.6703296703296703,
+      "tan": 0.9444444444444444,
+      "q": 0.8484848484848485,
+      "muchas": 0.9565217391304348,
+      "solo": 0.5714285714285714,
+      "pues": 0.72,
+      "ahora": 0.5625,
+      "hoy": 0.375
+    }
+  },
+  "cardiffnlp_spanish_test_gemma-3-4b-it_es-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 496,
+      "no": 145,
+      "si": 51,
+      "tan": 28,
+      "q": 26,
+      "ahora": 19,
+      "bueno": 17,
+      "pues": 17,
+      "solo": 17,
+      "hoy": 16
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.7425149700598802,
+      "no": 0.5234657039711191,
+      "si": 0.5604395604395604,
+      "tan": 0.7777777777777778,
+      "q": 0.7878787878787878,
+      "ahora": 0.59375,
+      "bueno": 0.4473684210526316,
+      "pues": 0.68,
+      "solo": 0.4857142857142857,
+      "hoy": 0.3333333333333333
+    }
+  },
+  "cardiffnlp_spanish_train_Llama-3.1-8B-Instruct_en-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 573,
+      "no": 340,
+      "si": 103,
+      "gracias": 48,
+      "as\u00ed": 41,
+      "q": 38,
+      "tan": 35,
+      "http": 35,
+      "solo": 32,
+      "ser": 31
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.4101646385110952,
+      "no": 0.5501618122977346,
+      "si": 0.7152777777777778,
+      "gracias": 0.5783132530120482,
+      "as\u00ed": 0.640625,
+      "q": 0.7307692307692307,
+      "tan": 0.6481481481481481,
+      "http": 0.875,
+      "solo": 0.4507042253521127,
+      "ser": 0.43661971830985913
+    }
+  },
+  "cardiffnlp_spanish_train_Llama-3.1-8B-Instruct_es-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 1157,
+      "no": 122,
+      "si": 56,
+      "q": 33,
+      "bueno": 32,
+      "hoy": 29,
+      "http": 29,
+      "gracias": 23,
+      "tan": 18,
+      "pues": 17
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.8282032927702219,
+      "no": 0.19741100323624594,
+      "si": 0.3888888888888889,
+      "q": 0.6346153846153846,
+      "bueno": 0.4383561643835616,
+      "hoy": 0.3717948717948718,
+      "http": 0.725,
+      "gracias": 0.27710843373493976,
+      "tan": 0.3333333333333333,
+      "pues": 0.4722222222222222
+    }
+  },
+  "cardiffnlp_spanish_train_Phi-4-mini-instruct_en-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 1084,
+      "no": 125,
+      "si": 40,
+      "hoy": 25,
+      "solo": 17,
+      "pues": 17,
+      "bueno": 15,
+      "q": 15,
+      "mas": 15,
+      "tan": 13
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.7759484609878311,
+      "no": 0.2022653721682848,
+      "si": 0.2777777777777778,
+      "hoy": 0.32051282051282054,
+      "solo": 0.23943661971830985,
+      "pues": 0.4722222222222222,
+      "bueno": 0.2054794520547945,
+      "q": 0.28846153846153844,
+      "mas": 0.46875,
+      "tan": 0.24074074074074073
+    }
+  },
+  "cardiffnlp_spanish_train_Phi-4-mini-instruct_es-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 718,
+      "no": 136,
+      "q": 23,
+      "si": 22,
+      "solo": 13,
+      "mas": 11,
+      "as\u00ed": 11,
+      "siempre": 11,
+      "quiero": 10,
+      "pues": 10
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.5139584824624195,
+      "no": 0.22006472491909385,
+      "q": 0.4423076923076923,
+      "si": 0.1527777777777778,
+      "solo": 0.18309859154929578,
+      "mas": 0.34375,
+      "as\u00ed": 0.171875,
+      "siempre": 0.2,
+      "quiero": 0.136986301369863,
+      "pues": 0.2777777777777778
+    }
+  },
+  "cardiffnlp_spanish_train_Qwen2.5-7B-Instruct_en-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 950,
+      "no": 516,
+      "si": 82,
+      "tan": 43,
+      "ser": 39,
+      "http": 37,
+      "solo": 36,
+      "q": 34,
+      "as\u00ed": 26,
+      "siempre": 23
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.6800286327845383,
+      "no": 0.8349514563106796,
+      "si": 0.5694444444444444,
+      "tan": 0.7962962962962963,
+      "ser": 0.5492957746478874,
+      "http": 0.925,
+      "solo": 0.5070422535211268,
+      "q": 0.6538461538461539,
+      "as\u00ed": 0.40625,
+      "siempre": 0.41818181818181815
+    }
+  },
+  "cardiffnlp_spanish_train_Qwen2.5-7B-Instruct_es-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 849,
+      "no": 336,
+      "si": 85,
+      "ser": 41,
+      "http": 38,
+      "tan": 37,
+      "q": 35,
+      "solo": 35,
+      "as\u00ed": 32,
+      "siempre": 23
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.60773085182534,
+      "no": 0.5436893203883495,
+      "si": 0.5902777777777778,
+      "ser": 0.5774647887323944,
+      "http": 0.95,
+      "tan": 0.6851851851851852,
+      "q": 0.6730769230769231,
+      "solo": 0.49295774647887325,
+      "as\u00ed": 0.5,
+      "siempre": 0.41818181818181815
+    }
+  },
+  "cardiffnlp_spanish_train_gemma-2-9b-it_en-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 899,
+      "no": 445,
+      "si": 113,
+      "tan": 48,
+      "q": 45,
+      "solo": 43,
+      "ser": 42,
+      "hoy": 39,
+      "http": 36,
+      "as\u00ed": 36
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.6435218324982105,
+      "no": 0.7200647249190939,
+      "si": 0.7847222222222222,
+      "tan": 0.8888888888888888,
+      "q": 0.8653846153846154,
+      "solo": 0.6056338028169014,
+      "ser": 0.5915492957746479,
+      "hoy": 0.5,
+      "http": 0.9,
+      "as\u00ed": 0.5625
+    }
+  },
+  "cardiffnlp_spanish_train_gemma-2-9b-it_es-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 1183,
+      "no": 310,
+      "si": 110,
+      "solo": 56,
+      "tan": 50,
+      "q": 43,
+      "as\u00ed": 43,
+      "ser": 42,
+      "hoy": 38,
+      "http": 32
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.8468146027201146,
+      "no": 0.5016181229773463,
+      "si": 0.7638888888888888,
+      "solo": 0.7887323943661971,
+      "tan": 0.9259259259259259,
+      "q": 0.8269230769230769,
+      "as\u00ed": 0.671875,
+      "ser": 0.5915492957746479,
+      "hoy": 0.48717948717948717,
+      "http": 0.8
+    }
+  },
+  "cardiffnlp_spanish_train_gemma-3-4b-it_en-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 762,
+      "no": 345,
+      "si": 104,
+      "tan": 45,
+      "solo": 45,
+      "ser": 43,
+      "q": 42,
+      "hace": 39,
+      "as\u00ed": 31,
+      "siempre": 29
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.5454545454545454,
+      "no": 0.558252427184466,
+      "si": 0.7222222222222222,
+      "tan": 0.8333333333333334,
+      "solo": 0.6338028169014085,
+      "ser": 0.6056338028169014,
+      "q": 0.8076923076923077,
+      "hace": 0.8125,
+      "as\u00ed": 0.484375,
+      "siempre": 0.5272727272727272
+    }
+  },
+  "cardiffnlp_spanish_train_gemma-3-4b-it_es-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 1037,
+      "no": 295,
+      "si": 85,
+      "q": 43,
+      "solo": 42,
+      "tan": 36,
+      "bueno": 33,
+      "ser": 31,
+      "hace": 24,
+      "hoy": 24
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.7423049391553329,
+      "no": 0.4773462783171521,
+      "si": 0.5902777777777778,
+      "q": 0.8269230769230769,
+      "solo": 0.5915492957746479,
+      "tan": 0.6666666666666666,
+      "bueno": 0.4520547945205479,
+      "ser": 0.43661971830985913,
+      "hace": 0.5,
+      "hoy": 0.3076923076923077
+    }
+  }
+}

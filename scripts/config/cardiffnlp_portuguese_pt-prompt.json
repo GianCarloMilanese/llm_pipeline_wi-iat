@@ -1,0 +1,14 @@
+{
+  "prompts": {
+    "language": "pt",
+    "stopwords": {
+        "query" : "Você é especializado em remover stopwords de textos escritos em português. Stopwords são palavras que, em geral, não são relevantes para o processamento de um texto. Normalmente incluem artigos, preposições, pronomes e verbos auxiliares. Por exemplo, palavras como 'o', 'a', 'de', 'que', 'e', 'em', 'para', 'por', 'com', 'se', 'uma', 'os', 'no', 'na' e suas variações costumam ser consideradas stopwords. No entanto, a definição de stopword pode variar conforme o contexto ou a aplicação. Neste caso, a tarefa é detectar o sentimento (positivo, negativo ou neutro) de um tweet escrito em português. Para essa tarefa, as palavras 'não' e 'nem' não devem ser tratadas como stopwords e precisam ser mantidas no texto. Por favor, forneça a versão sem stopwords do seguinte parágrafo em português: '{}'. Imprima apenas o parágrafo sem stopwords, sem adicionar explicações, detalhes ou observações."
+    },
+    "lemmatization": {
+      "query": "Você é especializado em aplicar lematização em textos escritos em português. A lematização é uma técnica de processamento de linguagem natural que reduz palavras à sua forma canônica, também chamada de lema ou forma de dicionário. Esse processo é utilizado para normalizar o texto e facilitar seu processamento. Por exemplo, os verbos portugueses 'é', 'são' e 'foi' devem ser reduzidos ao lema comum 'ser'. Da mesma forma, a expressão 'eu fui estudar' deve ser lematizada para 'eu ser estudar'. A lematização depende da identificação correta da classe gramatical e do significado da palavra na frase, além do contexto mais amplo, como frases vizinhas ou até mesmo o documento completo. Por favor, forneça a versão lematizada do seguinte parágrafo em português: '{}'. Imprima apenas o parágrafo lematizado, sem adicionar explicações, detalhes ou observações."
+    },
+    "stemming": {
+      "query": "Você é especializado em aplicar stemming em textos escritos em português. O stemming é uma técnica de processamento de linguagem natural que reduz palavras à sua forma base, também chamada de raiz. Esse processo é usado para normalizar o texto e facilitar o seu tratamento. Por exemplo, as palavras em português 'programação', 'programador' e 'programa' podem ser reduzidas à raiz comum 'program'. Da mesma forma, as palavras 'argumentar', 'argumentei', 'argumentamos', 'argumentador' e 'argumenta' podem ser reduzidas à raiz 'argument'. Por favor, forneça a versão com stemming do seguinte parágrafo: '{}'. Imprima apenas o parágrafo com stemming, sem adicionar explicações, detalhes ou observações."
+    }
+  }
+}

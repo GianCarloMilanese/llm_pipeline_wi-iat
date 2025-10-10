@@ -1,0 +1,14 @@
+{
+  "prompts": {
+    "language": "es",
+    "stopwords": {
+        "query" : "Eres especialista en eliminar palabras vacías de textos escritos en español. Las palabras vacías son aquellas que no son relevantes para procesar un texto. Las palabras vacías suelen incluir artículos, preposiciones, pronombres y verbos auxiliares. Por ejemplo, las palabras 'es', 'eres', 'estar', 'tú', 'yo', 'el', 'una', 'y', 'muy', 'que', 'hay', 'por', 'para' y sus formas alternativas suelen considerarse palabras vacías. Ten en cuenta que determinar si una palabra es vacía o no depende del contexto del texto o de una aplicación. En este caso, la tarea relevante es detectar el sentimiento (positivo, negativo o neutro) de un tweet escrito en español. En esta tarea, la palabra 'no' a menudo no se considera una palabra vacía y debe mantenerse en el texto. Por favor, escribe una versión sin palabras vacías del siguiente párrafo escrito en español: '{}'. Incluye solo el párrafo sin palabras vacías en español, sin agregar explicaciones, detalles ni notas."
+    },
+    "lemmatization": {
+      "query": "Eres especialista en la lematización de textos en español. La lematización es una técnica de procesamiento del lenguaje natural que se utiliza para reducir las palabras a su lema, también conocido como la forma base o forma de diccionario.  Este proceso sirve para normalizar el texto y facilitar su análisis. Por ejemplo, los verbos en español 'es', 'son' y 'siendo' deben reducirse al lema común 'ser'. Otro ejemplo sería 'estoy andando', que debe lematizarse como 'estar andar'. La lematización requiere identificar correctamente la categoría gramatical y el significado de una palabra en una oración, así como su contexto más amplio, que puede incluir oraciones vecinas o incluso un documento completo. Por favor, proporciona la versión lematizada de este párrafo en español: '{}'. Incluye únicamente el párrafo lematizado en español, sin agregar explicaciones, detalles ni notas."
+    },
+    "stemming": {
+      "query": "Eres especialista en  el stemming de textos escritos en español. El stemming es una técnica de procesamiento del lenguaje natural que se utiliza para reducir las palabras a su forma base, también conocida como la forma raíz. Este proceso se usa para normalizar el texto y facilitar su análisis. Por ejemplo, las palabras españolas 'programador', 'programación' y 'programas' se pueden reducir al común stem 'program'. Otro ejemplo sería que las palabras 'argumentar', 'argumentado', 'argumento', 'argumentando', 'argumentador' se reducen al stem 'argument'. Por favor, escribe la versión con stemming de este párrafo: '{}'. Incluye únicamente el párrafo con stemming, sin agregar explicaciones, detalles ni notas."
+    }
+  }
+}

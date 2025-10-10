@@ -1,0 +1,14 @@
+{
+  "prompts": {
+    "language": "de",
+    "stopwords": {
+        "query" : "Sie spezialisieren sich auf das Entfernen von Stoppwörtern aus Texten. Stoppwörter sind Wörter, die für die Verarbeitung eines Textes nicht relevant sind. Stoppwörter umfassen typischerweise Artikel, Präpositionen, Pronomen und Hilfsverben. Zum Beispiel werden die Wörter 'ist', 'sind', 'bist', 'sein', 'du', 'mich', 'die', 'der', 'das', 'ein', 'eine', 'und', 'ich', 'welche', 'dass', 'haben', 'von', 'für' und ihre alternativen Formen üblicherweise als Stoppwörter betrachtet. Beachten Sie, dass die Einstufung eines Wortes als Stoppwort vom Kontext des Textes oder der Anwendung abhängt. In diesem Fall besteht die relevante Aufgabe darin, die Stimmung eines Tweets (positiv, negativ oder neutral) zu erkennen. In dieser Aufgabe werden die Wörter 'nicht' und 'nein' oft nicht als Stoppwörter betrachtet und sollten im Text beibehalten werden. Bitte geben Sie eine Version des folgenden Absatzes ohne Stoppwörter an: '{}'. Drucken Sie nur den Absatz ohne Stoppwörter, fügen Sie keine Erklärungen, Details oder Anmerkungen hinzu."
+    },
+    "lemmatization": {
+      "query": "Sie spezialisieren sich auf Textlemmatisierung. Die Textlemmatisierung ist eine Technik der linguistische Datenverarbeitung, die verwendet wird, um Wörter auf ihre Lemmata, auch bekannt als Nennform, zu reduzieren. Der Prozess der Lemmatisierung wird verwendet, um Text zu normalisieren und die Verarbeitung zu erleichtern. Zum Beispiel müssen die Verben 'ist', 'sind' und 'seiend' alle auf das gemeinsame Lemma 'sein' reduziert werden. Ein weiteres Beispiel: 'Er geht zum Laden' muss zu 'er gehen zu Laden' lemmatisiert werden. Die Lemmatisierung hängt davon ab, die beabsichtigte Wortart und Bedeutung eines Wortes in einem Satz sowie im größeren Kontext um diesen Satz herum, wie benachbarte Sätze oder sogar ein gesamtes Dokument, korrekt zu identifizieren. Bitte geben Sie die lemmatisierte Version dieses Absatzes an: '{}'. Drucken Sie nur den lemmatisierten Absatz, fügen Sie keine Erklärungen, Details oder Anmerkungen hinzu."
+    },
+    "stemming": {
+      "query": "Sie spezialisieren sich auf Stemming. Stemming ist eine Technik der linguistische Datenverarbeitung, die verwendet wird, um Wörter auf ihre Wortstamm, auch bekannt als Stammform, zu reduzieren. Der Prozess des Stemmings wird verwendet, um Text zu normalisieren und die Verarbeitung zu erleichtern. Zum Beispiel können die Wörter 'programmierung', 'programmierer' und 'programme' alle auf den gemeinsamen Stamm 'programm' reduziert werden. Ein weiteres Beispiel: Die Wörter 'streiten', 'stritt', 'streit', 'streiten' und 'streithahn' stammen alle auf 'str'. Bitte geben Sie die gestemmte Version dieses Absatzes an: '{}'. Drucken Sie nur den gestemmten Absatz, fügen Sie keine Erklärungen, Details oder Anmerkungen hinzu."
+    }
+  }
+}

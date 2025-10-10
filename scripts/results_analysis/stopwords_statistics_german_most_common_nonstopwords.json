@@ -1,0 +1,522 @@
+{
+  "cardiffnlp_german_test_Llama-3.1-8B-Instruct_de-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 252,
+      "http": 88,
+      "nicht": 52,
+      "rt": 52,
+      "ja": 13,
+      "ne": 9,
+      "^^": 7,
+      ":d": 7,
+      "nein": 6,
+      "danke": 6
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.4193011647254576,
+      "http": 0.3076923076923077,
+      "nicht": 0.49523809523809526,
+      "rt": 0.5360824742268041,
+      "ja": 0.41935483870967744,
+      "ne": 0.5294117647058824,
+      "^^": 0.875,
+      ":d": 0.4666666666666667,
+      "nein": 0.5,
+      "danke": 0.2608695652173913
+    }
+  },
+  "cardiffnlp_german_test_Llama-3.1-8B-Instruct_en-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 288,
+      "http": 260,
+      "nicht": 49,
+      "rt": 42,
+      "ja": 13,
+      "mal": 12,
+      "amp": 10,
+      "danke": 10,
+      "ne": 9,
+      "you": 8
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.47920133111480867,
+      "http": 0.9090909090909091,
+      "nicht": 0.4666666666666667,
+      "rt": 0.4329896907216495,
+      "ja": 0.41935483870967744,
+      "mal": 0.3870967741935484,
+      "amp": 0.7142857142857143,
+      "danke": 0.43478260869565216,
+      "ne": 0.5294117647058824,
+      "you": 0.6153846153846154
+    }
+  },
+  "cardiffnlp_german_test_Phi-4-mini-instruct_de-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 239,
+      "rt": 52,
+      "http": 42,
+      "nicht": 31,
+      "mal": 10,
+      "ne": 10,
+      "+": 9,
+      "amp": 7,
+      "ganz": 6,
+      "gibt": 6
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.39767054908485855,
+      "rt": 0.5360824742268041,
+      "http": 0.14685314685314685,
+      "nicht": 0.29523809523809524,
+      "mal": 0.3225806451612903,
+      "ne": 0.5882352941176471,
+      "+": 0.6923076923076923,
+      "amp": 0.5,
+      "ganz": 0.5454545454545454,
+      "gibt": 0.5454545454545454
+    }
+  },
+  "cardiffnlp_german_test_Phi-4-mini-instruct_en-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 302,
+      "rt": 59,
+      "http": 28,
+      "nicht": 22,
+      "amp": 10,
+      "+": 9,
+      "ne": 8,
+      "d": 7,
+      "gibt": 6,
+      "macht": 6
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.502495840266223,
+      "rt": 0.6082474226804123,
+      "http": 0.0979020979020979,
+      "nicht": 0.20952380952380953,
+      "amp": 0.7142857142857143,
+      "+": 0.6923076923076923,
+      "ne": 0.47058823529411764,
+      "d": 0.4375,
+      "gibt": 0.5454545454545454,
+      "macht": 0.2857142857142857
+    }
+  },
+  "cardiffnlp_german_test_Qwen2.5-7B-Instruct_de-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "http": 222,
+      "user": 220,
+      "nicht": 75,
+      "rt": 40,
+      "ne": 13,
+      "amp": 12,
+      "+": 11,
+      "nein": 9,
+      "2": 9,
+      "mal": 7
+    },
+    "percentage_removed_nonstopwords": {
+      "http": 0.7762237762237763,
+      "user": 0.36605657237936773,
+      "nicht": 0.7142857142857143,
+      "rt": 0.41237113402061853,
+      "ne": 0.7647058823529411,
+      "amp": 0.8571428571428571,
+      "+": 0.8461538461538461,
+      "nein": 0.75,
+      "2": 0.75,
+      "mal": 0.22580645161290322
+    }
+  },
+  "cardiffnlp_german_test_Qwen2.5-7B-Instruct_en-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "http": 255,
+      "user": 194,
+      "nicht": 93,
+      "rt": 18,
+      "ne": 16,
+      "mal": 12,
+      "danke": 12,
+      "+": 12,
+      "nein": 11,
+      "mehr": 11
+    },
+    "percentage_removed_nonstopwords": {
+      "http": 0.8916083916083916,
+      "user": 0.3227953410981697,
+      "nicht": 0.8857142857142857,
+      "rt": 0.18556701030927836,
+      "ne": 0.9411764705882353,
+      "mal": 0.3870967741935484,
+      "danke": 0.5217391304347826,
+      "+": 0.9230769230769231,
+      "nein": 0.9166666666666666,
+      "mehr": 0.4782608695652174
+    }
+  },
+  "cardiffnlp_german_test_gemma-2-9b-it_de-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 487,
+      "http": 248,
+      "nicht": 85,
+      "rt": 67,
+      "mal": 23,
+      "ja": 16,
+      "ne": 16,
+      "amp": 14,
+      "+": 13,
+      "schon": 13
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.8103161397670549,
+      "http": 0.8671328671328671,
+      "nicht": 0.8095238095238095,
+      "rt": 0.6907216494845361,
+      "mal": 0.7419354838709677,
+      "ja": 0.5161290322580645,
+      "ne": 0.9411764705882353,
+      "amp": 1.0,
+      "+": 1.0,
+      "schon": 0.6842105263157895
+    }
+  },
+  "cardiffnlp_german_test_gemma-2-9b-it_en-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 341,
+      "http": 252,
+      "nicht": 57,
+      "rt": 40,
+      "mal": 24,
+      "amp": 14,
+      "ne": 13,
+      "ja": 12,
+      "schon": 11,
+      "d": 10
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.56738768718802,
+      "http": 0.8811188811188811,
+      "nicht": 0.5428571428571428,
+      "rt": 0.41237113402061853,
+      "mal": 0.7741935483870968,
+      "amp": 1.0,
+      "ne": 0.7647058823529411,
+      "ja": 0.3870967741935484,
+      "schon": 0.5789473684210527,
+      "d": 0.625
+    }
+  },
+  "cardiffnlp_german_test_gemma-3-4b-it_de-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 387,
+      "http": 214,
+      "rt": 94,
+      "nicht": 38,
+      "ja": 17,
+      "ne": 16,
+      "mal": 14,
+      "amp": 14,
+      "+": 12,
+      "d": 10
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.6439267886855241,
+      "http": 0.7482517482517482,
+      "rt": 0.9690721649484536,
+      "nicht": 0.3619047619047619,
+      "ja": 0.5483870967741935,
+      "ne": 0.9411764705882353,
+      "mal": 0.45161290322580644,
+      "amp": 1.0,
+      "+": 0.9230769230769231,
+      "d": 0.625
+    }
+  },
+  "cardiffnlp_german_test_gemma-3-4b-it_en-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 372,
+      "http": 266,
+      "rt": 95,
+      "nicht": 54,
+      "mal": 23,
+      "ja": 20,
+      "ne": 16,
+      "amp": 14,
+      ":d": 13,
+      "+": 13
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.6189683860232945,
+      "http": 0.9300699300699301,
+      "rt": 0.979381443298969,
+      "nicht": 0.5142857142857142,
+      "mal": 0.7419354838709677,
+      "ja": 0.6451612903225806,
+      "ne": 0.9411764705882353,
+      "amp": 1.0,
+      ":d": 0.8666666666666667,
+      "+": 1.0
+    }
+  },
+  "cardiffnlp_german_train_Llama-3.1-8B-Instruct_de-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 522,
+      "http": 184,
+      "nicht": 126,
+      "rt": 115,
+      "+": 22,
+      "ja": 20,
+      "ne": 19,
+      "bitte": 15,
+      "amp": 15,
+      ":d": 12
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.4149443561208267,
+      "http": 0.2866043613707165,
+      "nicht": 0.4921875,
+      "rt": 0.5555555555555556,
+      "+": 0.6875,
+      "ja": 0.45454545454545453,
+      "ne": 0.5135135135135135,
+      "bitte": 0.36585365853658536,
+      "amp": 0.6521739130434783,
+      ":d": 0.5
+    }
+  },
+  "cardiffnlp_german_train_Llama-3.1-8B-Instruct_en-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 677,
+      "http": 561,
+      "nicht": 117,
+      "rt": 100,
+      "einfach": 27,
+      "bitte": 24,
+      "danke": 22,
+      "gut": 22,
+      "ne": 21,
+      "echt": 20
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.5381558028616852,
+      "http": 0.8738317757009346,
+      "nicht": 0.45703125,
+      "rt": 0.4830917874396135,
+      "einfach": 0.6,
+      "bitte": 0.5853658536585366,
+      "danke": 0.5641025641025641,
+      "gut": 0.3728813559322034,
+      "ne": 0.5675675675675675,
+      "echt": 0.47619047619047616
+    }
+  },
+  "cardiffnlp_german_train_Phi-4-mini-instruct_de-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 466,
+      "rt": 108,
+      "nicht": 74,
+      "http": 66,
+      "ne": 21,
+      "ach": 18,
+      "+": 17,
+      "amp": 15,
+      "einfach": 15,
+      "macht": 14
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.37042925278219396,
+      "rt": 0.5217391304347826,
+      "nicht": 0.2890625,
+      "http": 0.102803738317757,
+      "ne": 0.5675675675675675,
+      "ach": 0.6923076923076923,
+      "+": 0.53125,
+      "amp": 0.6521739130434783,
+      "einfach": 0.3333333333333333,
+      "macht": 0.35
+    }
+  },
+  "cardiffnlp_german_train_Phi-4-mini-instruct_en-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 640,
+      "rt": 151,
+      "http": 69,
+      "nicht": 35,
+      "+": 19,
+      "ne": 18,
+      "amp": 15,
+      "ach": 14,
+      "macht": 11,
+      "nich": 10
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.5087440381558028,
+      "rt": 0.7294685990338164,
+      "http": 0.10747663551401869,
+      "nicht": 0.13671875,
+      "+": 0.59375,
+      "ne": 0.4864864864864865,
+      "amp": 0.6521739130434783,
+      "ach": 0.5384615384615384,
+      "macht": 0.275,
+      "nich": 0.7692307692307693
+    }
+  },
+  "cardiffnlp_german_train_Qwen2.5-7B-Instruct_de-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 495,
+      "http": 460,
+      "nicht": 198,
+      "rt": 73,
+      "+": 30,
+      "ne": 26,
+      "amp": 21,
+      "bitte": 18,
+      "schon": 15,
+      "lt;3": 14
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.3934817170111288,
+      "http": 0.7165109034267912,
+      "nicht": 0.7734375,
+      "rt": 0.3526570048309179,
+      "+": 0.9375,
+      "ne": 0.7027027027027027,
+      "amp": 0.9130434782608695,
+      "bitte": 0.43902439024390244,
+      "schon": 0.3409090909090909,
+      "lt;3": 0.7
+    }
+  },
+  "cardiffnlp_german_train_Qwen2.5-7B-Instruct_en-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "http": 557,
+      "user": 411,
+      "nicht": 211,
+      "ne": 32,
+      "mehr": 27,
+      "+": 26,
+      "rt": 25,
+      "schon": 23,
+      "amp": 22,
+      "bitte": 19
+    },
+    "percentage_removed_nonstopwords": {
+      "http": 0.867601246105919,
+      "user": 0.3267090620031797,
+      "nicht": 0.82421875,
+      "ne": 0.8648648648648649,
+      "mehr": 0.391304347826087,
+      "+": 0.8125,
+      "rt": 0.12077294685990338,
+      "schon": 0.5227272727272727,
+      "amp": 0.9565217391304348,
+      "bitte": 0.4634146341463415
+    }
+  },
+  "cardiffnlp_german_train_gemma-2-9b-it_de-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 959,
+      "http": 554,
+      "nicht": 207,
+      "rt": 128,
+      "mehr": 36,
+      "mal": 33,
+      "schon": 32,
+      "einfach": 32,
+      "ne": 32,
+      "+": 31
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.7623211446740858,
+      "http": 0.8629283489096573,
+      "nicht": 0.80859375,
+      "rt": 0.6183574879227053,
+      "mehr": 0.5217391304347826,
+      "mal": 0.7333333333333333,
+      "schon": 0.7272727272727273,
+      "einfach": 0.7111111111111111,
+      "ne": 0.8648648648648649,
+      "+": 0.96875
+    }
+  },
+  "cardiffnlp_german_train_gemma-2-9b-it_en-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 653,
+      "http": 556,
+      "nicht": 144,
+      "rt": 72,
+      "+": 31,
+      "mal": 30,
+      "einfach": 28,
+      "ne": 28,
+      "mehr": 27,
+      "schon": 25
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.5190779014308426,
+      "http": 0.8660436137071651,
+      "nicht": 0.5625,
+      "rt": 0.34782608695652173,
+      "+": 0.96875,
+      "mal": 0.6666666666666666,
+      "einfach": 0.6222222222222222,
+      "ne": 0.7567567567567568,
+      "mehr": 0.391304347826087,
+      "schon": 0.5681818181818182
+    }
+  },
+  "cardiffnlp_german_train_gemma-3-4b-it_de-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 798,
+      "http": 482,
+      "rt": 198,
+      "nicht": 100,
+      "ne": 33,
+      "+": 31,
+      "mal": 25,
+      "amp": 23,
+      "ja": 18,
+      "schon": 18
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.6343402225755167,
+      "http": 0.7507788161993769,
+      "rt": 0.9565217391304348,
+      "nicht": 0.390625,
+      "ne": 0.8918918918918919,
+      "+": 0.96875,
+      "mal": 0.5555555555555556,
+      "amp": 1.0,
+      "ja": 0.4090909090909091,
+      "schon": 0.4090909090909091
+    }
+  },
+  "cardiffnlp_german_train_gemma-3-4b-it_en-prompt_": {
+    "most_common_removed_nonstropwords": {
+      "user": 753,
+      "http": 595,
+      "rt": 204,
+      "nicht": 147,
+      "mal": 35,
+      "ne": 34,
+      "schon": 32,
+      "+": 32,
+      "immer": 28,
+      "ja": 27
+    },
+    "percentage_removed_nonstopwords": {
+      "user": 0.5985691573926868,
+      "http": 0.926791277258567,
+      "rt": 0.9855072463768116,
+      "nicht": 0.57421875,
+      "mal": 0.7777777777777778,
+      "ne": 0.918918918918919,
+      "schon": 0.7272727272727273,
+      "+": 1.0,
+      "immer": 0.7567567567567568,
+      "ja": 0.6136363636363636
+    }
+  }
+}

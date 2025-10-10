@@ -1,0 +1,4 @@
+.virtualenv
+
+.old/
+__pycache__

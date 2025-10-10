@@ -1,0 +1,14 @@
+{
+  "prompts": {
+    "language": "en",
+    "stopwords": {
+        "query" : "You specialize in removing stopwords from text written in Portuguese. Stopwords are words that are not relevant for processing a text. Stopwords typically include articles, prepositions, pronouns, and auxiliary verbs. For example, the words 'o', 'a', 'de', 'que', 'e', 'em', 'para', 'por', 'com', 'não', 'se', 'uma', 'os', 'no', 'na' and their alternative forms are usually considered stopwords. Note that whether a word is a stopword or not depends on the context of the text or of an application. In this case, the relevant task is detecting the sentiment (positive, negative or neutral) of a tweet written in Portuguese. In this task, the words 'não' and 'nem' are often not considered stopwords, and they should be kept in the text. Please provide a version without stopwords of the following paragraph written in Portuguese: '{}'. Print only the paragraph without stopwords in Portuguese, do not add any explanation, details or notes."
+    },
+    "lemmatization": {
+      "query": "You specialize in lemmatization of text written in Portuguese. Text lemmatization is a natural language processing technique that is used to reduce words to their lemma, also known as the dictionary form. The process of lemmatization is used to normalize text and make it easier to process. For example, the Portuguese verbs 'é', 'são', and 'foi' must all be reduced down to the common Portuguese lemma 'ser'. As another example, 'eu fui estudar' must be lemmatized to 'eu ser estudar'. Lemmatization depends on correctly identifying the intended part of speech and meaning of a word in a sentence, as well as within the larger context surrounding that sentence, such as neighbouring sentences or even an entire document. Please provide the lemmatized version of this paragraph written in Portuguese: '{}'. Print only the lemmatized paragraph in Portuguese, do not add any explanation, details or notes."
+    },
+    "stemming": {
+      "query": "You specialize in stemming text written in Portuguese. Text stemming is a natural language processing technique that is used to reduce words to their base form, also known as the root form. The process of stemming is used to normalize text and make it easier to process. For example, the Portuguese words 'programação', 'programador' and 'programa' can all be reduced down to the common Portuguese stem 'program'. As another example, the words 'argumentar', 'argumentei', 'argumentamos', 'argumentador', 'argumenta' all stem to 'argument'. Please provide the stemmed version of this paragraph: '{}'. Print only the stemmed paragraph, do not add any explanation, details or notes."
+    }
+  }
+}
