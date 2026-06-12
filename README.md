@@ -90,3 +90,18 @@ The scripts `./scripts/Traditional_preprocessing_tc.py` and
 `./scripts/LLM_preprocessing_tc.py` train and evaluate the ML text
 classification algorithms on the traditionally preprocessed and LLM-preprocessed
 text, respectively.
+
+
+## Cite our work: 
+
+[WI-IAT 2025](https://arxiv.org/abs/2510.11482)
+
+```
+@article{braga2025investigating,
+  title={Investigating Large Language Models' Linguistic Abilities for Text Preprocessing},
+  author={Braga, Marco and Milanese, Gian Carlo and Pasi, Gabriella},
+  journal={arXiv preprint arXiv:2510.11482},
+  year={2025}
+}
+```
+
